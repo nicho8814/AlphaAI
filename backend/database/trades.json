@@ -1,0 +1,17 @@
+[
+    {
+        "action": "BUY",
+        "price": 60000,
+        "amount": 0.016666666666666666
+    },
+    {
+        "action": "BUY",
+        "price": 58000,
+        "amount": 0.017241379310344827
+    },
+    {
+        "action": "SELL",
+        "price": 66000,
+        "profit": 137.93
+    }
+]
