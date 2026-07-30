@@ -1,0 +1,53 @@
+version: "3.8"
+
+services:
+
+  alphaai:
+
+    build:
+      context: ./backend
+
+    container_name:
+      alphaai_backend
+
+    ports:
+      - "8000:8000"
+
+    depends_on:
+      - database
+
+
+  database:
+
+    image:
+      postgres:16
+
+    container_name:
+      alphaai_database
+
+    environment:
+
+      POSTGRES_USER:
+        alpha
+
+      POSTGRES_PASSWORD:
+        password
+
+      POSTGRES_DB:
+        alphaai
+
+
+    ports:
+
+      - "5432:5432"
+
+
+    volumes:
+
+      - postgres_data:/var/lib/postgresql/data
+
+
+
+volumes:
+
+  postgres_data:
