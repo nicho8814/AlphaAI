@@ -3,19 +3,19 @@ from trading.simulator import TradingSimulator
 
 class Backtester:
 
-    def __init__(self, starting_balance=1000):
-
-        self.starting_balance = starting_balance
-
-
     def run(self, prices, strategy):
 
-        simulator = TradingSimulator(
-            balance=self.starting_balance
-        )
-
+        simulator = TradingSimulator()
 
         for price_data in prices:
+
+            price = price_data["price"]
+
+            risk = simulator.check_risk(price)
+
+            if risk == "STOP_LOSS" or risk == "TAKE_PROFIT":
+                simulator.sell(price)
+                continue
 
             decision = strategy.decide(
                 price_data["price"],
@@ -23,70 +23,42 @@ class Backtester:
                 price_data["average"]
             )
 
-            price = price_data["price"]
-
-
             if decision == "BUY":
-
                 simulator.buy(price)
 
-
             elif decision == "SELL":
-
                 simulator.sell(price)
 
-
-
-        result = simulator.status(
-            prices[-1]["price"]
-        )
-
-
-        trades = result["history"]
-
-
         sells = [
-            trade for trade in trades
+            trade for trade in simulator.history
             if trade["action"] == "SELL"
         ]
 
+        total_trades = len(sells)
 
-        wins = [
+        winning_trades = [
             trade for trade in sells
             if trade.get("profit", 0) > 0
         ]
 
-
-        losses = [
+        losing_trades = [
             trade for trade in sells
             if trade.get("profit", 0) <= 0
         ]
 
-
-        total_trades = len(sells)
-
-
         win_rate = 0
 
         if total_trades > 0:
+            win_rate = (len(winning_trades) / total_trades) * 100
 
-            win_rate = (
-                len(wins) / total_trades
-            ) * 100
-
-
-
-        result["statistics"] = {
-
-            "total_trades": total_trades,
-
-            "winning_trades": len(wins),
-
-            "losing_trades": len(losses),
-
-            "win_rate": round(win_rate, 2)
-
+        return {
+            "balance": simulator.balance,
+            "position": simulator.position,
+            "history": simulator.history,
+            "statistics": {
+                "total_trades": total_trades,
+                "winning_trades": len(winning_trades),
+                "losing_trades": len(losing_trades),
+                "win_rate": round(win_rate, 2)
+            }
         }
-
-
-        return result
