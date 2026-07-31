@@ -14,7 +14,7 @@ class Backtester:
             risk = simulator.check_risk(price)
 
             if risk == "STOP_LOSS" or risk == "TAKE_PROFIT":
-                simulator.sell(price)
+                simulator.sell(price, risk)
                 continue
 
             decision = strategy.decide(
