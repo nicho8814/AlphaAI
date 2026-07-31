@@ -52,13 +52,13 @@ class Backtester:
             win_rate = (len(winning_trades) / total_trades) * 100
 
         return {
-            "balance": simulator.balance,
-            "position": simulator.position,
-            "history": simulator.history,
-            "statistics": {
-                "total_trades": total_trades,
-                "winning_trades": len(winning_trades),
-                "losing_trades": len(losing_trades),
-                "win_rate": round(win_rate, 2)
-            }
-        }
+    "balance": simulator.balance,
+    "position": simulator.position,
+    "history": simulator.history,
+    "statistics": {
+        "total_trades": total_trades,
+        "winning_trades": len(winning_trades),
+        "losing_trades": len(losing_trades),
+        "win_rate": round(win_rate, 2)
+    }
+}

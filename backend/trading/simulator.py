@@ -12,7 +12,10 @@ class TradingSimulator:
         if self.balance <= 0:
             return "No balance"
 
-        risk_per_trade = 0.20  # usa il 20% del capitale disponibile
+        if self.position > 0:
+            return "Already invested"
+
+        risk_per_trade = 0.20
 
         amount_to_use = self.balance * risk_per_trade
 
