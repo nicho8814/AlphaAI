@@ -1,35 +1,51 @@
-import random
+import requests
 
 
 class MarketData:
 
-    def get_price(self, symbol: str):
 
-        # Simulazione temporanea del mercato
-        # (poi lo collegheremo alle API reali)
+    def __init__(self):
 
-        price = round(random.uniform(60000, 70000), 2)
+        self.url = "https://api.binance.com/api/v3/klines"
 
-        return {
-            "symbol": symbol,
-            "price": price
+
+
+    def get_candles(self, symbol="BTCUSDT", limit=100):
+
+        params = {
+            "symbol": symbol.upper(),
+            "interval": "1h",
+            "limit": limit
         }
 
 
-    def get_candles(self, symbol: str, limit: int = 100):
+        response = requests.get(
+            self.url,
+            params=params
+        )
+
+
+        data = response.json()
+
 
         candles = []
 
-        price = self.get_price(symbol)["price"]
 
-        for i in range(limit):
+        for candle in data:
 
             candles.append({
-                "open": price,
-                "high": price * 1.01,
-                "low": price * 0.99,
-                "close": price + random.uniform(-200, 200),
-                "volume": random.uniform(10, 100)
+
+                "open": float(candle[1]),
+
+                "high": float(candle[2]),
+
+                "low": float(candle[3]),
+
+                "close": float(candle[4]),
+
+                "volume": float(candle[5])
+
             })
+
 
         return candles

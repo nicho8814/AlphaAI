@@ -33,5 +33,20 @@
         "action": "SELL",
         "price": 70000,
         "profit": 206.9
+    },
+    {
+        "action": "BUY",
+        "price": 63428.08,
+        "amount": 0.015765887915888357
+    },
+    {
+        "action": "SELL",
+        "price": 64567.56,
+        "profit": 17.96
+    },
+    {
+        "action": "BUY",
+        "price": 64370.0,
+        "amount": 0.01581427550042561
     }
 ]

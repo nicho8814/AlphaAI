@@ -18,8 +18,8 @@ class Backtester:
         for price_data in prices:
 
             decision = strategy.decide(
-                price_data["rsi"],
                 price_data["price"],
+                price_data["rsi"],
                 price_data["average"]
             )
 
