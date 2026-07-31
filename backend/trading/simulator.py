@@ -24,7 +24,7 @@ class TradingSimulator:
         return "BUY executed"
 
 
-    def sell(self, price):
+    def sell(self, price, reason="STRATEGY"):
 
         if self.position <= 0:
             return "No position"
@@ -36,7 +36,8 @@ class TradingSimulator:
         self.history.append({
             "action": "SELL",
             "price": price,
-            "profit": round(profit, 2)
+            "profit": round(profit, 2),
+            "reason": reason
         })
 
         self.position = 0
