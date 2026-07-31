@@ -6,13 +6,18 @@ class TradingSimulator:
         self.entry_price = 0
         self.history = []
 
+
     def buy(self, price):
 
         if self.balance <= 0:
             return "No balance"
 
-        self.position = self.balance / price
-        self.balance = 0
+        risk_per_trade = 0.20  # usa il 20% del capitale disponibile
+
+        amount_to_use = self.balance * risk_per_trade
+
+        self.position = amount_to_use / price
+        self.balance -= amount_to_use
         self.entry_price = price
 
         self.history.append({
@@ -29,9 +34,11 @@ class TradingSimulator:
         if self.position <= 0:
             return "No position"
 
-        self.balance = self.position * price
+        value = self.position * price
 
-        profit = self.balance - 1000
+        profit = value - (self.position * self.entry_price)
+
+        self.balance += value
 
         self.history.append({
             "action": "SELL",
