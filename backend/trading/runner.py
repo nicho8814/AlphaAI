@@ -2,11 +2,14 @@ import time
 
 from trading.main_bot import AlphaAI
 from database.logger import Logger
+from notifications.telegram_bot import TelegramBot
 
 
 bot = AlphaAI(1000)
 
 logger = Logger()
+
+telegram = TelegramBot()
 
 
 symbols = [
@@ -27,14 +30,11 @@ while True:
         print("Analysis:")
         print(result["analysis"])
 
-
         print("\nDecision:")
         print(result["decision"])
 
-
         print("\nBalance:")
         print(result["balance"])
-
 
         print("===================\n")
 
@@ -42,7 +42,21 @@ while True:
         logger.save(result)
 
 
-        print("Saved to log ✅")
+        message = f"""
+🤖 AlphaAI Update
+
+Decision: {result['decision']['action']}
+Symbol: {result['decision']['symbol']}
+Score: {result['decision']['score']}
+
+Balance: {result['balance']}
+"""
+
+
+        telegram.send_message(message)
+
+
+        print("Telegram sent ✅")
 
 
     except Exception as e:
