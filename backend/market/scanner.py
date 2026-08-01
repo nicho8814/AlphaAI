@@ -1,13 +1,10 @@
+from indicators.technical import TechnicalIndicators
+
+
 class MarketScanner:
 
     def __init__(self):
-        self.markets = [
-            "BTCUSDT",
-            "ETHUSDT",
-            "SOLUSDT",
-            "BNBUSDT",
-            "XRPUSDT"
-        ]
+        self.technical = TechnicalIndicators()
 
 
     def calculate_score(self, rsi, trend, volume):
@@ -15,13 +12,12 @@ class MarketScanner:
         score = 0
 
         # RSI
-        if 30 <= rsi <= 50:
+        if 35 <= rsi <= 55:
             score += 30
-        elif rsi < 30:
+        elif rsi < 35:
             score += 20
         else:
             score += 10
-
 
         # Trend
         if trend == "UP":
@@ -29,34 +25,49 @@ class MarketScanner:
         elif trend == "SIDEWAYS":
             score += 20
 
-
         # Volume
         if volume == "HIGH":
             score += 30
         elif volume == "MEDIUM":
             score += 15
 
-
         return score
 
 
-    def scan(self, data):
+    def analyze_market(self, symbol, prices, volumes):
+
+        rsi = self.technical.calculate_rsi(prices)
+        trend = self.technical.calculate_trend(prices)
+        volume = self.technical.calculate_volume(volumes)
+
+        score = self.calculate_score(
+            rsi,
+            trend,
+            volume
+        )
+
+        return {
+            "symbol": symbol,
+            "rsi": rsi,
+            "trend": trend,
+            "volume": volume,
+            "score": score
+        }
+
+
+    def scan(self, markets):
 
         results = []
 
-        for coin in data:
+        for market in markets:
 
-            score = self.calculate_score(
-                coin["rsi"],
-                coin["trend"],
-                coin["volume"]
+            result = self.analyze_market(
+                market["symbol"],
+                market["prices"],
+                market["volumes"]
             )
 
-            results.append({
-                "symbol": coin["symbol"],
-                "score": score
-            })
-
+            results.append(result)
 
         results.sort(
             key=lambda x: x["score"],
