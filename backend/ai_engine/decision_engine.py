@@ -9,20 +9,34 @@ class DecisionEngine:
 
     def decide(self, market_data, balance):
 
-        # prende la crypto migliore
-        best_coin = market_data[0]
+        if not market_data:
+            return {
+                "action": "HOLD",
+                "reason": "Nessun dato disponibile"
+            }
+
+
+        # sceglie la crypto con lo score più alto
+        best_coin = max(
+            market_data,
+            key=lambda coin: coin["score"]
+        )
+
 
         score = best_coin["score"]
 
-        # sotto questa soglia non compra
+
+        # se il punteggio è troppo basso non entra
         if score < 60:
             return {
                 "action": "HOLD",
+                "symbol": best_coin["symbol"],
+                "score": score,
                 "reason": "Score troppo basso"
             }
 
 
-        # per ora consideriamo volatilità media
+        # per ora usiamo volatilità media
         risk = self.risk_manager.calculate_position_size(
             balance,
             score,
