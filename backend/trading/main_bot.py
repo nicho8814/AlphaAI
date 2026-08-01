@@ -1,5 +1,4 @@
 from market.market_manager import MarketManager
-from ai_engine.decision_engine import DecisionEngine
 from trading.simulator import Simulator
 
 
@@ -7,44 +6,46 @@ class AlphaAI:
 
     def __init__(self, balance=1000):
 
-        self.market = MarketManager()
-        self.decision = DecisionEngine()
+        self.market_manager = MarketManager()
         self.simulator = Simulator(balance)
 
 
-    def run(self, markets):
+    def run(self, symbols):
 
-        # Analizza tutte le crypto
-        analysis = self.market.scan_markets(markets)
+        markets = self.market_manager.get_live_markets(symbols)
 
-
-        # Decide quale crypto tradare
-        decision = self.decision.decide(
-            analysis,
-            self.simulator.balance
-        )
+        analysis = self.market_manager.scan_markets(markets)
 
 
-        # Se decide di comprare
-        if decision["action"] == "BUY":
-
-            selected_market = next(
-                m for m in markets
-                if m["symbol"] == decision["symbol"]
-            )
-
-            current_price = selected_market["prices"][-1]
+        best = analysis[0]
 
 
-            self.simulator.buy(
-                current_price,
-                decision["amount"]
-            )
+        decision = {
+            "action": "HOLD",
+            "symbol": best["symbol"],
+            "score": best["score"]
+        }
+
+
+        if best["score"] >= 80:
+
+            price = markets[0]["prices"][-1]
+
+            decision = {
+                "action": "BUY",
+                "symbol": best["symbol"],
+                "score": best["score"],
+                "price": price
+            }
+
+            self.simulator.buy(price)
 
 
         return {
+
             "analysis": analysis,
             "decision": decision,
             "history": self.simulator.history,
             "balance": self.simulator.balance
+
         }

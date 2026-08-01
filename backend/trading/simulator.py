@@ -1,32 +1,28 @@
 class Simulator:
 
     def __init__(self, balance=1000):
+
         self.balance = balance
         self.position = 0
         self.entry_price = 0
-        self.entry_amount = 0
         self.history = []
 
 
     def buy(self, price, amount):
 
         if amount > self.balance:
-            return "Not enough balance"
+            return "NOT ENOUGH BALANCE"
 
 
-        quantity = amount / price
-
-        self.position = quantity
-        self.entry_price = price
-        self.entry_amount = amount
-
+        self.position = amount / price
         self.balance -= amount
+        self.entry_price = price
 
 
         self.history.append({
             "action": "BUY",
             "price": price,
-            "amount": quantity,
+            "amount": self.position,
             "capital_used": amount
         })
 
@@ -37,27 +33,28 @@ class Simulator:
 
     def sell(self, price, reason="STRATEGY"):
 
-        if self.position <= 0:
-            return "No position"
+        if self.position == 0:
+            return "NO POSITION"
 
 
         value = self.position * price
 
-        profit = value - self.entry_amount
+        profit = value - (self.position * self.entry_price)
 
 
         self.balance += value
-        self.position = 0
-        self.entry_price = 0
-        self.entry_amount = 0
 
 
         self.history.append({
             "action": "SELL",
             "price": price,
-            "profit": round(profit, 2),
-            "reason": reason
+            "reason": reason,
+            "profit": round(profit, 2)
         })
+
+
+        self.position = 0
+        self.entry_price = 0
 
 
         return "SELL executed"
@@ -66,7 +63,7 @@ class Simulator:
 
     def check_risk(self, price):
 
-        if self.position <= 0:
+        if self.entry_price == 0:
             return None
 
 
