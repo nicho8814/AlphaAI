@@ -16,18 +16,18 @@ class AlphaAI:
 
         analysis = self.market_manager.scan_markets(markets)
 
-
         best = analysis[0]
 
 
         decision = {
             "action": "HOLD",
             "symbol": best["symbol"],
-            "score": best["score"]
+            "score": best["score"],
+            "confidence": "LOW"
         }
 
 
-        if best["score"] >= 80:
+        if best["score"] >= 90:
 
             price = markets[0]["prices"][-1]
 
@@ -35,10 +35,16 @@ class AlphaAI:
                 "action": "BUY",
                 "symbol": best["symbol"],
                 "score": best["score"],
+                "confidence": "HIGH",
                 "price": price
             }
 
             self.simulator.buy(price)
+
+
+        elif best["score"] >= 70:
+
+            decision["confidence"] = "MEDIUM"
 
 
         return {
