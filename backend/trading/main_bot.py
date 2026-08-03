@@ -1,5 +1,6 @@
 from market.market_manager import MarketManager
 from trading.simulator import Simulator
+from ai_engine.decision_engine import DecisionEngine
 
 
 class AlphaAI:
@@ -8,6 +9,7 @@ class AlphaAI:
 
         self.market_manager = MarketManager()
         self.simulator = Simulator(balance)
+        self.decision_engine = DecisionEngine()
 
 
     def run(self, symbols):
@@ -16,35 +18,24 @@ class AlphaAI:
 
         analysis = self.market_manager.scan_markets(markets)
 
-        best = analysis[0]
+
+        decision = self.decision_engine.decide(
+            analysis,
+            self.simulator.balance
+        )
 
 
-        decision = {
-            "action": "HOLD",
-            "symbol": best["symbol"],
-            "score": best["score"],
-            "confidence": "LOW"
-        }
-
-
-        if best["score"] >= 90:
+        if decision["action"] == "BUY":
 
             price = markets[0]["prices"][-1]
 
-            decision = {
-                "action": "BUY",
-                "symbol": best["symbol"],
-                "score": best["score"],
-                "confidence": "HIGH",
-                "price": price
-            }
-
-            self.simulator.buy(price)
+            self.simulator.buy(
+                price,
+                decision.get("amount", 0)
+            )
 
 
-        elif best["score"] >= 70:
-
-            decision["confidence"] = "MEDIUM"
+            decision["price"] = price
 
 
         return {

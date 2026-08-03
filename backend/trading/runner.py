@@ -24,7 +24,6 @@ while True:
 
         result = bot.run(symbols)
 
-
         print("\n===== AlphaAI =====")
 
         print("Analysis:")
@@ -36,27 +35,36 @@ while True:
         print("\nBalance:")
         print(result["balance"])
 
-        print("===================\n")
-
 
         logger.save(result)
 
 
-        message = f"""
-🤖 AlphaAI Update
+        decision = result["decision"]
 
-Decision: {result['decision']['action']}
-Symbol: {result['decision']['symbol']}
-Score: {result['decision']['score']}
+
+        # Invia Telegram solo per segnali importanti
+        if decision["action"] in ["BUY", "SELL"]:
+
+            message = f"""
+🤖 AlphaAI SIGNAL
+
+Action: {decision['action']}
+Symbol: {decision['symbol']}
+Score: {decision['score']}
+Confidence: {decision.get('confidence', 'N/A')}
 
 Balance: {result['balance']}
 """
 
 
-        telegram.send_message(message)
+            telegram.send_message(message)
+
+            print("Telegram signal sent ✅")
 
 
-        print("Telegram sent ✅")
+        else:
+
+            print("No signal - Telegram skipped")
 
 
     except Exception as e:
