@@ -9026,5 +9026,1317 @@
         "history": [],
         "balance": 1000,
         "time": "2026-08-03 16:12:05.308266"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 61.11,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 75
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 56.78,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "BUY",
+            "symbol": "BTCUSDT",
+            "score": 75,
+            "confidence": "MEDIUM",
+            "amount": 150.0,
+            "percentage": 15.0,
+            "price": 63819.68
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "price": 63819.68,
+                "amount": 0.0023503721735991154,
+                "capital_used": 150.0
+            }
+        ],
+        "balance": 850.0,
+        "time": "2026-08-03 16:32:22.688933"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 61.01,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 75
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 56.78,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "BUY",
+            "symbol": "BTCUSDT",
+            "score": 75,
+            "confidence": "MEDIUM",
+            "amount": 127.5,
+            "percentage": 15.0,
+            "price": 63811.44
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "price": 63819.68,
+                "amount": 0.0023503721735991154,
+                "capital_used": 150.0
+            },
+            {
+                "action": "BUY",
+                "price": 63811.44,
+                "amount": 0.0019980743264844045,
+                "capital_used": 127.5
+            }
+        ],
+        "balance": 722.5,
+        "time": "2026-08-03 16:32:33.380467"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 60.97,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 75
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 56.6,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "BUY",
+            "symbol": "BTCUSDT",
+            "score": 75,
+            "confidence": "MEDIUM",
+            "amount": 108.38,
+            "percentage": 15.0,
+            "price": 63808.52
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "price": 63819.68,
+                "amount": 0.0023503721735991154,
+                "capital_used": 150.0
+            },
+            {
+                "action": "BUY",
+                "price": 63811.44,
+                "amount": 0.0019980743264844045,
+                "capital_used": 127.5
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.0016985192573029432,
+                "capital_used": 108.38
+            }
+        ],
+        "balance": 614.12,
+        "time": "2026-08-03 16:32:44.048226"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 60.97,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 75
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 56.78,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "BUY",
+            "symbol": "BTCUSDT",
+            "score": 75,
+            "confidence": "MEDIUM",
+            "amount": 92.12,
+            "percentage": 15.0,
+            "price": 63808.53
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "price": 63819.68,
+                "amount": 0.0023503721735991154,
+                "capital_used": 150.0
+            },
+            {
+                "action": "BUY",
+                "price": 63811.44,
+                "amount": 0.0019980743264844045,
+                "capital_used": 127.5
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.0016985192573029432,
+                "capital_used": 108.38
+            },
+            {
+                "action": "BUY",
+                "price": 63808.53,
+                "amount": 0.0014436941267883777,
+                "capital_used": 92.12
+            }
+        ],
+        "balance": 522.0,
+        "time": "2026-08-03 16:32:54.723409"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 60.97,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 75
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 56.78,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "BUY",
+            "symbol": "BTCUSDT",
+            "score": 75,
+            "confidence": "MEDIUM",
+            "amount": 78.3,
+            "percentage": 15.0,
+            "price": 63808.52
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "price": 63819.68,
+                "amount": 0.0023503721735991154,
+                "capital_used": 150.0
+            },
+            {
+                "action": "BUY",
+                "price": 63811.44,
+                "amount": 0.0019980743264844045,
+                "capital_used": 127.5
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.0016985192573029432,
+                "capital_used": 108.38
+            },
+            {
+                "action": "BUY",
+                "price": 63808.53,
+                "amount": 0.0014436941267883777,
+                "capital_used": 92.12
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.001227108856309471,
+                "capital_used": 78.3
+            }
+        ],
+        "balance": 443.7,
+        "time": "2026-08-03 16:33:05.476730"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 60.99,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 75
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.14,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "BUY",
+            "symbol": "BTCUSDT",
+            "score": 75,
+            "confidence": "MEDIUM",
+            "amount": 66.55,
+            "percentage": 15.0,
+            "price": 63810.0
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "price": 63819.68,
+                "amount": 0.0023503721735991154,
+                "capital_used": 150.0
+            },
+            {
+                "action": "BUY",
+                "price": 63811.44,
+                "amount": 0.0019980743264844045,
+                "capital_used": 127.5
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.0016985192573029432,
+                "capital_used": 108.38
+            },
+            {
+                "action": "BUY",
+                "price": 63808.53,
+                "amount": 0.0014436941267883777,
+                "capital_used": 92.12
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.001227108856309471,
+                "capital_used": 78.3
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0010429399780598652,
+                "capital_used": 66.55
+            }
+        ],
+        "balance": 377.15,
+        "time": "2026-08-03 16:33:16.100546"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 60.99,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 75
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 56.96,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "BUY",
+            "symbol": "BTCUSDT",
+            "score": 75,
+            "confidence": "MEDIUM",
+            "amount": 56.57,
+            "percentage": 15.0,
+            "price": 63810.0
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "price": 63819.68,
+                "amount": 0.0023503721735991154,
+                "capital_used": 150.0
+            },
+            {
+                "action": "BUY",
+                "price": 63811.44,
+                "amount": 0.0019980743264844045,
+                "capital_used": 127.5
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.0016985192573029432,
+                "capital_used": 108.38
+            },
+            {
+                "action": "BUY",
+                "price": 63808.53,
+                "amount": 0.0014436941267883777,
+                "capital_used": 92.12
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.001227108856309471,
+                "capital_used": 78.3
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0010429399780598652,
+                "capital_used": 66.55
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0008865381601629839,
+                "capital_used": 56.57
+            }
+        ],
+        "balance": 320.58,
+        "time": "2026-08-03 16:33:26.732923"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 61.47,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 75
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.69,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "BUY",
+            "symbol": "BTCUSDT",
+            "score": 75,
+            "confidence": "MEDIUM",
+            "amount": 48.09,
+            "percentage": 15.0,
+            "price": 63847.99
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "price": 63819.68,
+                "amount": 0.0023503721735991154,
+                "capital_used": 150.0
+            },
+            {
+                "action": "BUY",
+                "price": 63811.44,
+                "amount": 0.0019980743264844045,
+                "capital_used": 127.5
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.0016985192573029432,
+                "capital_used": 108.38
+            },
+            {
+                "action": "BUY",
+                "price": 63808.53,
+                "amount": 0.0014436941267883777,
+                "capital_used": 92.12
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.001227108856309471,
+                "capital_used": 78.3
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0010429399780598652,
+                "capital_used": 66.55
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0008865381601629839,
+                "capital_used": 56.57
+            },
+            {
+                "action": "BUY",
+                "price": 63847.99,
+                "amount": 0.0007531952063017177,
+                "capital_used": 48.09
+            }
+        ],
+        "balance": 272.49,
+        "time": "2026-08-03 16:33:37.424484"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 61.4,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 75
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.14,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "BUY",
+            "symbol": "BTCUSDT",
+            "score": 75,
+            "confidence": "MEDIUM",
+            "amount": 40.87,
+            "percentage": 15.0,
+            "price": 63842.0
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "price": 63819.68,
+                "amount": 0.0023503721735991154,
+                "capital_used": 150.0
+            },
+            {
+                "action": "BUY",
+                "price": 63811.44,
+                "amount": 0.0019980743264844045,
+                "capital_used": 127.5
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.0016985192573029432,
+                "capital_used": 108.38
+            },
+            {
+                "action": "BUY",
+                "price": 63808.53,
+                "amount": 0.0014436941267883777,
+                "capital_used": 92.12
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.001227108856309471,
+                "capital_used": 78.3
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0010429399780598652,
+                "capital_used": 66.55
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0008865381601629839,
+                "capital_used": 56.57
+            },
+            {
+                "action": "BUY",
+                "price": 63847.99,
+                "amount": 0.0007531952063017177,
+                "capital_used": 48.09
+            },
+            {
+                "action": "BUY",
+                "price": 63842.0,
+                "amount": 0.000640174180006892,
+                "capital_used": 40.87
+            }
+        ],
+        "balance": 231.62,
+        "time": "2026-08-03 16:33:48.076585"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 61.55,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 75
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.32,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "BUY",
+            "symbol": "BTCUSDT",
+            "score": 75,
+            "confidence": "MEDIUM",
+            "amount": 34.74,
+            "percentage": 15.0,
+            "price": 63853.99
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "price": 63819.68,
+                "amount": 0.0023503721735991154,
+                "capital_used": 150.0
+            },
+            {
+                "action": "BUY",
+                "price": 63811.44,
+                "amount": 0.0019980743264844045,
+                "capital_used": 127.5
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.0016985192573029432,
+                "capital_used": 108.38
+            },
+            {
+                "action": "BUY",
+                "price": 63808.53,
+                "amount": 0.0014436941267883777,
+                "capital_used": 92.12
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.001227108856309471,
+                "capital_used": 78.3
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0010429399780598652,
+                "capital_used": 66.55
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0008865381601629839,
+                "capital_used": 56.57
+            },
+            {
+                "action": "BUY",
+                "price": 63847.99,
+                "amount": 0.0007531952063017177,
+                "capital_used": 48.09
+            },
+            {
+                "action": "BUY",
+                "price": 63842.0,
+                "amount": 0.000640174180006892,
+                "capital_used": 40.87
+            },
+            {
+                "action": "BUY",
+                "price": 63853.99,
+                "amount": 0.0005440537075286916,
+                "capital_used": 34.74
+            }
+        ],
+        "balance": 196.88,
+        "time": "2026-08-03 16:33:58.692922"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 61.69,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 75
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.69,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "BUY",
+            "symbol": "BTCUSDT",
+            "score": 75,
+            "confidence": "MEDIUM",
+            "amount": 29.53,
+            "percentage": 15.0,
+            "price": 63865.99
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "price": 63819.68,
+                "amount": 0.0023503721735991154,
+                "capital_used": 150.0
+            },
+            {
+                "action": "BUY",
+                "price": 63811.44,
+                "amount": 0.0019980743264844045,
+                "capital_used": 127.5
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.0016985192573029432,
+                "capital_used": 108.38
+            },
+            {
+                "action": "BUY",
+                "price": 63808.53,
+                "amount": 0.0014436941267883777,
+                "capital_used": 92.12
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.001227108856309471,
+                "capital_used": 78.3
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0010429399780598652,
+                "capital_used": 66.55
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0008865381601629839,
+                "capital_used": 56.57
+            },
+            {
+                "action": "BUY",
+                "price": 63847.99,
+                "amount": 0.0007531952063017177,
+                "capital_used": 48.09
+            },
+            {
+                "action": "BUY",
+                "price": 63842.0,
+                "amount": 0.000640174180006892,
+                "capital_used": 40.87
+            },
+            {
+                "action": "BUY",
+                "price": 63853.99,
+                "amount": 0.0005440537075286916,
+                "capital_used": 34.74
+            },
+            {
+                "action": "BUY",
+                "price": 63865.99,
+                "amount": 0.0004623744186851249,
+                "capital_used": 29.53
+            }
+        ],
+        "balance": 167.35,
+        "time": "2026-08-03 16:34:09.362574"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 61.69,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 75
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 58.06,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "BUY",
+            "symbol": "BTCUSDT",
+            "score": 75,
+            "confidence": "MEDIUM",
+            "amount": 25.1,
+            "percentage": 15.0,
+            "price": 63866.0
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "price": 63819.68,
+                "amount": 0.0023503721735991154,
+                "capital_used": 150.0
+            },
+            {
+                "action": "BUY",
+                "price": 63811.44,
+                "amount": 0.0019980743264844045,
+                "capital_used": 127.5
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.0016985192573029432,
+                "capital_used": 108.38
+            },
+            {
+                "action": "BUY",
+                "price": 63808.53,
+                "amount": 0.0014436941267883777,
+                "capital_used": 92.12
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.001227108856309471,
+                "capital_used": 78.3
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0010429399780598652,
+                "capital_used": 66.55
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0008865381601629839,
+                "capital_used": 56.57
+            },
+            {
+                "action": "BUY",
+                "price": 63847.99,
+                "amount": 0.0007531952063017177,
+                "capital_used": 48.09
+            },
+            {
+                "action": "BUY",
+                "price": 63842.0,
+                "amount": 0.000640174180006892,
+                "capital_used": 40.87
+            },
+            {
+                "action": "BUY",
+                "price": 63853.99,
+                "amount": 0.0005440537075286916,
+                "capital_used": 34.74
+            },
+            {
+                "action": "BUY",
+                "price": 63865.99,
+                "amount": 0.0004623744186851249,
+                "capital_used": 29.53
+            },
+            {
+                "action": "BUY",
+                "price": 63866.0,
+                "amount": 0.00039301036545266656,
+                "capital_used": 25.1
+            }
+        ],
+        "balance": 142.25,
+        "time": "2026-08-03 16:34:20.007543"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 61.69,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 75
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 58.06,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "BUY",
+            "symbol": "BTCUSDT",
+            "score": 75,
+            "confidence": "MEDIUM",
+            "amount": 21.34,
+            "percentage": 15.0,
+            "price": 63865.99
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "price": 63819.68,
+                "amount": 0.0023503721735991154,
+                "capital_used": 150.0
+            },
+            {
+                "action": "BUY",
+                "price": 63811.44,
+                "amount": 0.0019980743264844045,
+                "capital_used": 127.5
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.0016985192573029432,
+                "capital_used": 108.38
+            },
+            {
+                "action": "BUY",
+                "price": 63808.53,
+                "amount": 0.0014436941267883777,
+                "capital_used": 92.12
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.001227108856309471,
+                "capital_used": 78.3
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0010429399780598652,
+                "capital_used": 66.55
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0008865381601629839,
+                "capital_used": 56.57
+            },
+            {
+                "action": "BUY",
+                "price": 63847.99,
+                "amount": 0.0007531952063017177,
+                "capital_used": 48.09
+            },
+            {
+                "action": "BUY",
+                "price": 63842.0,
+                "amount": 0.000640174180006892,
+                "capital_used": 40.87
+            },
+            {
+                "action": "BUY",
+                "price": 63853.99,
+                "amount": 0.0005440537075286916,
+                "capital_used": 34.74
+            },
+            {
+                "action": "BUY",
+                "price": 63865.99,
+                "amount": 0.0004623744186851249,
+                "capital_used": 29.53
+            },
+            {
+                "action": "BUY",
+                "price": 63866.0,
+                "amount": 0.00039301036545266656,
+                "capital_used": 25.1
+            },
+            {
+                "action": "BUY",
+                "price": 63865.99,
+                "amount": 0.0003341371518706592,
+                "capital_used": 21.34
+            }
+        ],
+        "balance": 120.91,
+        "time": "2026-08-03 16:34:30.688404"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 61.69,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 75
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 58.06,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "BUY",
+            "symbol": "BTCUSDT",
+            "score": 75,
+            "confidence": "MEDIUM",
+            "amount": 18.14,
+            "percentage": 15.0,
+            "price": 63865.99
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "price": 63819.68,
+                "amount": 0.0023503721735991154,
+                "capital_used": 150.0
+            },
+            {
+                "action": "BUY",
+                "price": 63811.44,
+                "amount": 0.0019980743264844045,
+                "capital_used": 127.5
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.0016985192573029432,
+                "capital_used": 108.38
+            },
+            {
+                "action": "BUY",
+                "price": 63808.53,
+                "amount": 0.0014436941267883777,
+                "capital_used": 92.12
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.001227108856309471,
+                "capital_used": 78.3
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0010429399780598652,
+                "capital_used": 66.55
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0008865381601629839,
+                "capital_used": 56.57
+            },
+            {
+                "action": "BUY",
+                "price": 63847.99,
+                "amount": 0.0007531952063017177,
+                "capital_used": 48.09
+            },
+            {
+                "action": "BUY",
+                "price": 63842.0,
+                "amount": 0.000640174180006892,
+                "capital_used": 40.87
+            },
+            {
+                "action": "BUY",
+                "price": 63853.99,
+                "amount": 0.0005440537075286916,
+                "capital_used": 34.74
+            },
+            {
+                "action": "BUY",
+                "price": 63865.99,
+                "amount": 0.0004623744186851249,
+                "capital_used": 29.53
+            },
+            {
+                "action": "BUY",
+                "price": 63866.0,
+                "amount": 0.00039301036545266656,
+                "capital_used": 25.1
+            },
+            {
+                "action": "BUY",
+                "price": 63865.99,
+                "amount": 0.0003341371518706592,
+                "capital_used": 21.34
+            },
+            {
+                "action": "BUY",
+                "price": 63865.99,
+                "amount": 0.0002840322368759961,
+                "capital_used": 18.14
+            }
+        ],
+        "balance": 102.77,
+        "time": "2026-08-03 16:34:41.383401"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 61.69,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 75
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 58.06,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "BUY",
+            "symbol": "BTCUSDT",
+            "score": 75,
+            "confidence": "MEDIUM",
+            "amount": 15.42,
+            "percentage": 15.0,
+            "price": 63865.99
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "price": 63819.68,
+                "amount": 0.0023503721735991154,
+                "capital_used": 150.0
+            },
+            {
+                "action": "BUY",
+                "price": 63811.44,
+                "amount": 0.0019980743264844045,
+                "capital_used": 127.5
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.0016985192573029432,
+                "capital_used": 108.38
+            },
+            {
+                "action": "BUY",
+                "price": 63808.53,
+                "amount": 0.0014436941267883777,
+                "capital_used": 92.12
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.001227108856309471,
+                "capital_used": 78.3
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0010429399780598652,
+                "capital_used": 66.55
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0008865381601629839,
+                "capital_used": 56.57
+            },
+            {
+                "action": "BUY",
+                "price": 63847.99,
+                "amount": 0.0007531952063017177,
+                "capital_used": 48.09
+            },
+            {
+                "action": "BUY",
+                "price": 63842.0,
+                "amount": 0.000640174180006892,
+                "capital_used": 40.87
+            },
+            {
+                "action": "BUY",
+                "price": 63853.99,
+                "amount": 0.0005440537075286916,
+                "capital_used": 34.74
+            },
+            {
+                "action": "BUY",
+                "price": 63865.99,
+                "amount": 0.0004623744186851249,
+                "capital_used": 29.53
+            },
+            {
+                "action": "BUY",
+                "price": 63866.0,
+                "amount": 0.00039301036545266656,
+                "capital_used": 25.1
+            },
+            {
+                "action": "BUY",
+                "price": 63865.99,
+                "amount": 0.0003341371518706592,
+                "capital_used": 21.34
+            },
+            {
+                "action": "BUY",
+                "price": 63865.99,
+                "amount": 0.0002840322368759961,
+                "capital_used": 18.14
+            },
+            {
+                "action": "BUY",
+                "price": 63865.99,
+                "amount": 0.00024144305913053254,
+                "capital_used": 15.42
+            }
+        ],
+        "balance": 87.35,
+        "time": "2026-08-03 16:34:52.057762"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 61.5,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 75
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.69,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "BUY",
+            "symbol": "BTCUSDT",
+            "score": 75,
+            "confidence": "MEDIUM",
+            "amount": 13.1,
+            "percentage": 15.0,
+            "price": 63850.01
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "price": 63819.68,
+                "amount": 0.0023503721735991154,
+                "capital_used": 150.0
+            },
+            {
+                "action": "BUY",
+                "price": 63811.44,
+                "amount": 0.0019980743264844045,
+                "capital_used": 127.5
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.0016985192573029432,
+                "capital_used": 108.38
+            },
+            {
+                "action": "BUY",
+                "price": 63808.53,
+                "amount": 0.0014436941267883777,
+                "capital_used": 92.12
+            },
+            {
+                "action": "BUY",
+                "price": 63808.52,
+                "amount": 0.001227108856309471,
+                "capital_used": 78.3
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0010429399780598652,
+                "capital_used": 66.55
+            },
+            {
+                "action": "BUY",
+                "price": 63810.0,
+                "amount": 0.0008865381601629839,
+                "capital_used": 56.57
+            },
+            {
+                "action": "BUY",
+                "price": 63847.99,
+                "amount": 0.0007531952063017177,
+                "capital_used": 48.09
+            },
+            {
+                "action": "BUY",
+                "price": 63842.0,
+                "amount": 0.000640174180006892,
+                "capital_used": 40.87
+            },
+            {
+                "action": "BUY",
+                "price": 63853.99,
+                "amount": 0.0005440537075286916,
+                "capital_used": 34.74
+            },
+            {
+                "action": "BUY",
+                "price": 63865.99,
+                "amount": 0.0004623744186851249,
+                "capital_used": 29.53
+            },
+            {
+                "action": "BUY",
+                "price": 63866.0,
+                "amount": 0.00039301036545266656,
+                "capital_used": 25.1
+            },
+            {
+                "action": "BUY",
+                "price": 63865.99,
+                "amount": 0.0003341371518706592,
+                "capital_used": 21.34
+            },
+            {
+                "action": "BUY",
+                "price": 63865.99,
+                "amount": 0.0002840322368759961,
+                "capital_used": 18.14
+            },
+            {
+                "action": "BUY",
+                "price": 63865.99,
+                "amount": 0.00024144305913053254,
+                "capital_used": 15.42
+            },
+            {
+                "action": "BUY",
+                "price": 63850.01,
+                "amount": 0.00020516833121874217,
+                "capital_used": 13.1
+            }
+        ],
+        "balance": 74.25,
+        "time": "2026-08-03 16:35:02.881871"
     }
 ]
