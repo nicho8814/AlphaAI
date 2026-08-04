@@ -10338,5 +10338,707 @@
         ],
         "balance": 74.25,
         "time": "2026-08-03 16:35:02.881871"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.8,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 58.33,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:47:35.412994"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.8,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 58.33,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:47:45.955709"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.8,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 58.2,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:47:56.520759"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 64.1,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 58.6,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:48:07.078702"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 64.08,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 58.2,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:48:17.629308"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 64.08,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 58.2,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:48:28.163783"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.66,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 58.06,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:48:38.742707"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.59,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.79,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:48:49.291796"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.71,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.79,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:48:59.834606"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.71,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 58.06,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:49:10.379838"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.71,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 58.06,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:49:21.314844"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.71,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.93,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:49:32.225902"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.89,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 58.2,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:49:43.137071"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.89,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 58.06,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:49:54.039409"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.61,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.65,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:50:04.937798"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.94,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.79,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:50:15.480025"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.94,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 58.06,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:50:27.034255"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.94,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.79,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:50:37.601871"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.94,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.79,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:50:48.160107"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.94,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.65,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:50:59.559115"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.77,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.52,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:51:10.216267"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.77,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.65,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:51:20.881527"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.77,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.65,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:51:31.550749"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.75,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.38,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:51:42.107329"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.86,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.38,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:51:52.650652"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 63.91,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 57.38,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 50
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 50,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-04 19:52:03.210669"
     }
 ]

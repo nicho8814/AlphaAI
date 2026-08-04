@@ -25,15 +25,38 @@ class AlphaAI:
         )
 
 
-        if decision["action"] == "BUY":
+        price = markets[0]["prices"][-1]
 
-            price = markets[0]["prices"][-1]
+
+        # Controllo posizione aperta
+        risk = self.simulator.check_risk(price)
+
+
+        if risk == "STOP_LOSS":
+
+            self.simulator.sell(
+                price,
+                "STOP_LOSS"
+            )
+
+
+        elif risk == "TAKE_PROFIT":
+
+            self.simulator.sell(
+                price,
+                "TAKE_PROFIT"
+            )
+
+
+        elif (
+            decision["action"] == "BUY"
+            and self.simulator.position == 0
+        ):
 
             self.simulator.buy(
                 price,
                 decision.get("amount", 0)
             )
-
 
             decision["price"] = price
 
