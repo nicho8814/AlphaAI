@@ -11,11 +11,13 @@ logger = Logger()
 
 telegram = TelegramBot()
 
-
 symbols = [
     "BTCUSDT",
     "SOLUSDT"
 ]
+
+
+last_signal = None
 
 
 while True:
@@ -24,13 +26,16 @@ while True:
 
         result = bot.run(symbols)
 
+
         print("\n===== AlphaAI =====")
 
         print("Analysis:")
         print(result["analysis"])
 
+
         print("\nDecision:")
         print(result["decision"])
+
 
         print("\nBalance:")
         print(result["balance"])
@@ -42,15 +47,24 @@ while True:
         decision = result["decision"]
 
 
-        # Invia Telegram solo per segnali importanti
-        if decision["action"] in ["BUY", "SELL"]:
+        current_signal = (
+            decision.get("action"),
+            decision.get("symbol")
+        )
+
+
+        # Telegram solo per nuovi segnali
+        if (
+            decision.get("action") in ["BUY", "SELL"]
+            and current_signal != last_signal
+        ):
 
             message = f"""
-🤖 AlphaAI SIGNAL
+AlphaAI SIGNAL
 
-Action: {decision['action']}
-Symbol: {decision['symbol']}
-Score: {decision['score']}
+Action: {decision.get('action')}
+Symbol: {decision.get('symbol')}
+Score: {decision.get('score')}
 Confidence: {decision.get('confidence', 'N/A')}
 
 Balance: {result['balance']}
@@ -59,12 +73,14 @@ Balance: {result['balance']}
 
             telegram.send_message(message)
 
-            print("Telegram signal sent ✅")
+            last_signal = current_signal
+
+            print("Telegram signal sent")
 
 
         else:
 
-            print("No signal - Telegram skipped")
+            print("No new signal - Telegram skipped")
 
 
     except Exception as e:
