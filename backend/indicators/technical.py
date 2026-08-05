@@ -13,7 +13,7 @@ class TechnicalIndicators:
 
         for i in range(1, len(prices)):
 
-            change = prices[i] - prices[i-1]
+            change = prices[i] - prices[i - 1]
 
             if change > 0:
                 gains.append(change)
@@ -36,6 +36,7 @@ class TechnicalIndicators:
 
         rsi_value = 100 - (100 / (1 + rs))
 
+
         return round(rsi_value, 2)
 
 
@@ -46,15 +47,23 @@ class TechnicalIndicators:
             return "SIDEWAYS"
 
 
-        if prices[-1] > prices[-5]:
+        old_price = prices[-5]
+        current_price = prices[-1]
+
+
+        change = ((current_price - old_price) / old_price) * 100
+
+
+        if change > 0.5:
             return "UP"
 
 
-        elif prices[-1] < prices[-5]:
+        elif change < -0.5:
             return "DOWN"
 
 
-        return "SIDEWAYS"
+        else:
+            return "SIDEWAYS"
 
 
 
