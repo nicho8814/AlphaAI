@@ -43,9 +43,10 @@ class Simulator:
 
 
         if self.position == 0:
-
             return "NO POSITION"
 
+
+        sold_symbol = self.symbol
 
 
         value = self.position * price
@@ -59,7 +60,7 @@ class Simulator:
         self.history.append({
 
             "action": "SELL",
-            "symbol": self.symbol,
+            "symbol": sold_symbol,
             "price": price,
             "reason": reason,
             "profit": round(profit, 2)
@@ -80,13 +81,10 @@ class Simulator:
 
 
         if self.entry_price == 0:
-
             return None
 
 
-
         change = (price - self.entry_price) / self.entry_price
-
 
 
         if change <= -0.02:
@@ -94,11 +92,9 @@ class Simulator:
             return "STOP_LOSS"
 
 
-
         if change >= 0.05:
 
             return "TAKE_PROFIT"
-
 
 
         return None

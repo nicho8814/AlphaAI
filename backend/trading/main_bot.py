@@ -5,7 +5,6 @@ from ai_engine.decision_engine import DecisionEngine
 
 class AlphaAI:
 
-
     def __init__(self, balance=1000):
 
         self.market_manager = MarketManager()
@@ -13,12 +12,13 @@ class AlphaAI:
         self.decision_engine = DecisionEngine()
 
 
-
     def run(self, symbols):
+
+        print("DEBUG POSITION:", self.simulator.position)
+        print("DEBUG SYMBOL:", self.simulator.symbol)
 
 
         markets = self.market_manager.get_live_markets(symbols)
-
 
         analysis = self.market_manager.scan_markets(markets)
 
@@ -29,25 +29,25 @@ class AlphaAI:
         )
 
 
-        # prende il prezzo della crypto scelta
-        selected_symbol = decision.get("symbol")
+        if self.simulator.position > 0:
+         symbol = self.simulator.symbol
+        else:
+            symbol = decision.get("symbol")
 
         price = None
 
 
         for market in markets:
 
-            if market["symbol"] == selected_symbol:
+            if market["symbol"] == symbol:
 
                 price = market["prices"][-1]
                 break
 
 
-
         if price is None:
 
             return {
-
                 "analysis": analysis,
                 "decision": {
                     "action": "HOLD",
@@ -59,45 +59,60 @@ class AlphaAI:
 
 
 
-        # gestione posizione aperta
+        # Se abbiamo una posizione aperta controlliamo rischio
 
         if self.simulator.position > 0:
-
+            print(
+            "POSITION DEBUG:",
+            "SYMBOL:", self.simulator.symbol,
+            "ENTRY:", self.simulator.entry_price,
+            "CURRENT:", price
+            )
 
             risk = self.simulator.check_risk(price)
 
 
-            if risk == "STOP_LOSS":
+            if risk:
+
+                old_symbol = self.simulator.symbol
 
                 self.simulator.sell(
                     price,
-                    "STOP_LOSS"
+                    risk
                 )
 
 
-            elif risk == "TAKE_PROFIT":
+                decision = {
 
-                self.simulator.sell(
-                    price,
-                    "TAKE_PROFIT"
-                )
+                    "action": "SELL",
+                    "symbol": old_symbol,
+                    "reason": risk,
+                    "score": None
+
+                }
+
+
+            else:
+
+                decision = {
+
+                    "action": "HOLD",
+                    "symbol": self.simulator.symbol,
+                    "reason": "Posizione aperta"
+
+                }
 
 
 
-        # nuovo BUY solo se non possiede crypto
+        # Compra solo senza posizione
 
-        elif (
-            decision["action"] == "BUY"
-            and self.simulator.position == 0
-        ):
+        elif decision.get("action") == "BUY":
 
 
             self.simulator.buy(
-
                 decision["symbol"],
                 price,
                 decision.get("amount", 0)
-
             )
 
 
