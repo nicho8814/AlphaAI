@@ -14,17 +14,17 @@ class MarketScanner:
 
 
         # RSI
-        if 35 < rsi < 55:
-            score += 30
+        if 40 <= rsi <= 60:
+            score += 35
 
-        elif 55 <= rsi < 70:
-            score += 20
+        elif 30 <= rsi < 40:
+            score += 25
 
-        elif rsi < 35:
-            score += 10
+        elif 60 < rsi <= 70:
+            score += 25
 
         else:
-            score += 5
+            score += 10
 
 
         # Trend
@@ -32,28 +32,24 @@ class MarketScanner:
             score += 40
 
         elif trend == "SIDEWAYS":
-            score += 10
+            score += 15
 
         elif trend == "DOWN":
-            score -= 30
+            score -= 20
 
 
         # Volume
         if volume == "HIGH":
-            score += 30
+            score += 25
 
         elif volume == "MEDIUM":
             score += 15
 
         elif volume == "LOW":
-            score -= 10
+            score += 5
 
 
-        if score < 0:
-            score = 0
-
-
-        return score
+        return max(score, 0)
 
 
 
@@ -74,11 +70,13 @@ class MarketScanner:
 
 
         return {
+
             "symbol": symbol,
             "rsi": rsi,
             "trend": trend,
             "volume": volume,
             "score": score
+
         }
 
 
