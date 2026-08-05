@@ -1,5 +1,8 @@
-class Simulator:
+from database.connection import SessionLocal
+from database.models import Position
 
+
+class Simulator:
 
     def __init__(self, balance=1000):
 
@@ -9,6 +12,27 @@ class Simulator:
         self.symbol = None
         self.history = []
 
+        self.load_position()
+
+
+    def load_position(self):
+
+        db = SessionLocal()
+
+        try:
+            position = (
+                db.query(Position)
+                .filter(Position.status == "OPEN")
+                .first()
+            )
+
+            if position:
+                self.symbol = position.symbol
+                self.entry_price = position.entry_price
+                self.position = position.amount
+
+        finally:
+            db.close()
 
 
     def buy(self, symbol, price, amount):
@@ -19,19 +43,31 @@ class Simulator:
 
         self.position = amount / price
         self.balance -= amount
-
         self.entry_price = price
         self.symbol = symbol
 
 
-        self.history.append({
+        db = SessionLocal()
 
+        position = Position(
+            symbol=symbol,
+            entry_price=price,
+            amount=self.position,
+            capital_used=amount,
+            status="OPEN"
+        )
+
+        db.add(position)
+        db.commit()
+        db.close()
+
+
+        self.history.append({
             "action": "BUY",
             "symbol": symbol,
             "price": price,
             "amount": self.position,
             "capital_used": amount
-
         })
 
 
@@ -41,30 +77,46 @@ class Simulator:
 
     def sell(self, price, reason="STRATEGY"):
 
-
         if self.position == 0:
             return "NO POSITION"
 
 
-        sold_symbol = self.symbol
-
-
         value = self.position * price
 
-        profit = value - (self.position * self.entry_price)
+        profit = value - (
+            self.position * self.entry_price
+        )
 
 
         self.balance += value
 
 
-        self.history.append({
+        db = SessionLocal()
 
+        position = (
+            db.query(Position)
+            .filter(
+                Position.symbol == self.symbol,
+                Position.status == "OPEN"
+            )
+            .first()
+        )
+
+
+        if position:
+            position.status = "CLOSED"
+
+
+        db.commit()
+        db.close()
+
+
+        self.history.append({
             "action": "SELL",
-            "symbol": sold_symbol,
+            "symbol": self.symbol,
             "price": price,
             "reason": reason,
             "profit": round(profit, 2)
-
         })
 
 
@@ -79,21 +131,20 @@ class Simulator:
 
     def check_risk(self, price):
 
-
         if self.entry_price == 0:
             return None
 
 
-        change = (price - self.entry_price) / self.entry_price
+        change = (
+            price - self.entry_price
+        ) / self.entry_price
 
 
         if change <= -0.02:
-
             return "STOP_LOSS"
 
 
         if change >= 0.05:
-
             return "TAKE_PROFIT"
 
 

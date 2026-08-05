@@ -1,18 +1,12 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-
-DATABASE_URL = (
-    "postgresql://alpha:"
-    "password@database/"
-    "alphaai"
-)
-
+DATABASE_URL = "sqlite:///./alphaai.db"
 
 engine = create_engine(
-    DATABASE_URL
+    DATABASE_URL,
+    connect_args={"check_same_thread": False}
 )
-
 
 SessionLocal = sessionmaker(
     autocommit=False,
