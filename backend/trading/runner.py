@@ -46,7 +46,7 @@ while True:
 
 
         print("\nBalance:")
-        print(result["balance"])
+        print(round(result["balance"], 2))
 
 
         logger.save(result)

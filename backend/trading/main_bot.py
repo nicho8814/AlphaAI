@@ -146,6 +146,6 @@ class AlphaAI:
             "analysis": analysis,
             "decision": decision,
             "history": self.simulator.history,
-            "balance": self.simulator.balance
+            "balance": round(self.simulator.balance, 2)
 
         }

@@ -56,7 +56,11 @@ class DecisionEngine:
             "MEDIUM"
 
         )
-
+        print("===== RISK DEBUG =====")
+        print("BALANCE:", balance)
+        print("SCORE:", score)
+        print("RISK:", risk)
+        print("======================")
 
 
         return {
