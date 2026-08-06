@@ -25808,5 +25808,6639 @@
         "history": [],
         "balance": 1000,
         "time": "2026-08-05 21:41:48.006977"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 47.89,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 39.49,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 20,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:39:52.745060"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 48.08,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 39.64,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 20,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:40:03.391717"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 47.61,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 39.49,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 20,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:40:13.951545"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 47.42,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 39.35,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 20,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:40:24.525305"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 47.29,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 39.21,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 20,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:40:35.086091"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 46.5,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.79,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 20,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:40:46.558161"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 46.42,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.65,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 20,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:40:57.109110"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 46.27,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.79,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 20,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:41:07.665878"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 46.25,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.65,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 20,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:41:18.265532"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 46.11,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.65,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 20,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:41:28.834750"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 46.25,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.65,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 20,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:41:39.390936"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 46.42,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.79,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 20,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:41:49.992785"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 46.43,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.65,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 20,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:42:00.596656"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 46.42,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.65,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 20,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:42:11.156069"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 46.18,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.65,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 20,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:42:21.705947"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 46.11,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.65,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 20,
+            "reason": "Score troppo basso"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:42:32.264409"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 52.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 53.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 45.06,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 47.7,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 49.44,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.25,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.5,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 21.64,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 29.96,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 26.82,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "BUY",
+            "symbol": "ADAUSDT",
+            "score": 80,
+            "confidence": "MEDIUM",
+            "amount": 150.0,
+            "percentage": 15.0,
+            "price": 0.1919
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "symbol": "ADAUSDT",
+                "price": 0.1919,
+                "amount": 781.6571130797291,
+                "capital_used": 150.0
+            }
+        ],
+        "balance": 850.0,
+        "time": "2026-08-06 12:47:57.017879"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 52.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 53.95,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 45.06,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 47.88,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 49.86,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.38,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.77,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 30.33,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 21.69,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 27.06,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "symbol": "ADAUSDT",
+                "price": 0.1919,
+                "amount": 781.6571130797291,
+                "capital_used": 150.0
+            }
+        ],
+        "balance": 850.0,
+        "time": "2026-08-06 12:48:09.730060"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 51.59,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 53.91,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 45.03,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 47.84,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 49.72,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.25,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.57,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 30.2,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 21.69,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 27.06,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "symbol": "ADAUSDT",
+                "price": 0.1919,
+                "amount": 781.6571130797291,
+                "capital_used": 150.0
+            }
+        ],
+        "balance": 850.0,
+        "time": "2026-08-06 12:48:22.384271"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 51.59,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 53.95,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 45.04,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 48.12,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 49.86,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.38,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.63,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 30.2,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 21.69,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 27.06,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "symbol": "ADAUSDT",
+                "price": 0.1919,
+                "amount": 781.6571130797291,
+                "capital_used": 150.0
+            }
+        ],
+        "balance": 850.0,
+        "time": "2026-08-06 12:48:35.002472"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 51.59,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 53.91,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 45.04,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 48.13,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 49.86,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.38,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.63,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 30.33,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 21.75,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 27.06,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "symbol": "ADAUSDT",
+                "price": 0.1919,
+                "amount": 781.6571130797291,
+                "capital_used": 150.0
+            }
+        ],
+        "balance": 850.0,
+        "time": "2026-08-06 12:48:47.655603"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 51.59,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 53.99,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 45.04,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 48.13,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 49.86,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.52,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.43,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 30.2,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 21.75,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 27.06,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [
+            {
+                "action": "BUY",
+                "symbol": "ADAUSDT",
+                "price": 0.1919,
+                "amount": 781.6571130797291,
+                "capital_used": 150.0
+            }
+        ],
+        "balance": 850.0,
+        "time": "2026-08-06 12:49:00.695121"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 52.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 53.95,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 44.95,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 47.98,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 49.86,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.52,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.43,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 30.2,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 21.75,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 27.3,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:49:27.019554"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 51.18,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 53.12,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 44.82,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 47.79,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 49.3,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.25,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.17,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 30.08,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 21.52,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 26.32,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:49:39.683560"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 51.18,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 53.04,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 44.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 47.4,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 49.44,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.11,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.37,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 21.58,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 29.96,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 26.4,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:49:53.172860"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 51.18,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 53.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 44.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 47.66,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 49.86,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.25,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.37,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 30.08,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 21.64,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 26.49,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:50:06.634118"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 51.59,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 52.96,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 44.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 47.48,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 49.86,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.38,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.3,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 30.08,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 21.64,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 26.4,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:50:19.694852"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 52.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 52.69,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 44.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 47.46,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 49.58,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.25,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.37,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 30.08,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 21.58,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 26.32,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:50:32.312649"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 50.78,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 52.69,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 44.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 47.49,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 49.58,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.25,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.3,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 21.47,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 29.96,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 26.32,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:50:44.939297"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 50.39,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 52.69,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 44.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 47.5,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 49.58,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 38.38,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.23,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 21.47,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 29.96,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 26.4,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:50:58.023583"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 47.1,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 52.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 41.86,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 44.38,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 47.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 20.5,
+                "trend": "DOWN",
+                "volume": "HIGH",
+                "score": 15
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.97,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.46,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 28.35,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 25.4,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 12:59:59.414506"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.15,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 40.45,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 42.73,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 47.14,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 45.71,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.46,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 27.24,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 25.4,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.83,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:00:14.006297"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.53,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 42.58,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 46.92,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 45.58,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 39.94,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.27,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 27.13,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 25.4,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.88,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:00:28.578019"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.15,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 40.52,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 43.35,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 47.51,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.45,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.76,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.79,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 27.8,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 26.03,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 19.29,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:00:43.199094"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.53,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 40.52,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 43.29,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 47.51,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.45,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.97,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.9,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 27.52,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 26.03,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.83,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:00:55.825035"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.53,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 40.52,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 43.48,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 47.51,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.74,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.76,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.01,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 27.8,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 26.27,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 19.08,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:01:09.780435"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.64,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 40.7,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 43.58,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 47.8,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 47.03,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.76,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 28.35,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 26.73,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.88,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:01:22.452722"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.28,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 40.71,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 43.64,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 47.96,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 47.17,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.76,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.11,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 28.08,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 26.27,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.88,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:01:35.117163"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.28,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 40.17,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 43.36,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 47.92,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.88,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.97,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.01,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 28.08,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 26.03,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.78,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:01:47.747090"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.28,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 43.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 47.42,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.74,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 39.89,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.76,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.11,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 27.8,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 25.56,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.73,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:02:00.781851"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.28,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 42.77,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 47.14,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.59,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 39.65,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.55,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 37.01,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 27.24,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 25.48,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.73,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:02:13.704282"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.28,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 42.37,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 46.88,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.45,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 38.87,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.33,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.9,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 27.13,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 25.48,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.73,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:02:26.696314"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.91,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 42.33,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 46.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.3,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 38.87,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.1,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 26.12,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 25.48,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.64,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:02:39.775070"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.28,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 42.57,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 46.88,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.59,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 38.95,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.1,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.57,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 26.12,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 25.48,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.64,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:02:52.446209"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.28,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 43.13,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 47.18,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.74,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 39.77,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.33,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 25.4,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.64,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 25.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:03:05.604274"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.64,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 43.17,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 47.14,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.74,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 39.53,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.57,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 25.93,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 25.4,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.64,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:03:18.710479"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.64,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 42.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 46.92,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.45,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 39.49,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.1,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 25.93,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 25.4,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.64,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:03:31.402840"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.64,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 40.06,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 42.89,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 46.73,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.59,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.1,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.79,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 26.02,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 25.56,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.64,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:03:44.061830"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.64,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 40.06,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 42.89,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 46.7,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.59,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 35.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 25.83,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 25.4,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.64,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:03:56.709109"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.64,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 42.54,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 46.41,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.15,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 39.61,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 34.98,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.4,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 25.83,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 25.24,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.55,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:04:10.692884"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.64,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 42.54,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 46.37,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.15,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 39.59,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 34.87,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.33,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 25.83,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.55,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 25.16,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:04:23.352638"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.64,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 42.36,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 46.15,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.15,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 38.93,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 34.53,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.33,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 25.93,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.59,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 25.08,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:04:35.973781"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.64,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 42.49,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 46.15,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.15,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 39.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 34.75,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.27,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 25.93,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.59,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 25.0,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:04:49.077299"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.28,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 42.82,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 46.08,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.15,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 39.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 34.64,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.27,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 25.83,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.59,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 24.39,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:05:03.512301"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.64,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 42.56,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 46.12,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 46.01,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 39.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 34.53,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.21,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 25.64,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 24.39,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:05:16.169655"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.64,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 42.56,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 46.12,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 45.86,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 39.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 34.53,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.27,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 25.74,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 24.39,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:05:29.277507"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.64,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 42.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 45.98,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 45.71,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 38.79,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 34.3,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.14,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 25.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 24.24,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:05:41.930375"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.64,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 45.98,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 45.58,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 34.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.27,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 41.96,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 38.14,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.5,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 25.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.74,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:05:54.560998"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.28,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 45.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.84,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 33.12,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.71,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.98,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 36.95,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.18,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.82,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.26,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:06:07.217940"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.28,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 45.27,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.96,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 33.33,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.41,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 41.31,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 37.01,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.32,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.91,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.53,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:06:19.847508"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.91,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 45.1,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.72,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 33.02,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.35,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 41.07,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 36.92,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.27,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.82,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.32,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:06:32.530596"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.91,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 44.53,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.84,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.29,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.35,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 36.53,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.72,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.36,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.73,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.19,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:06:45.601662"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.28,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 44.66,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.96,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 33.02,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.41,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.64,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 36.55,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.41,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.73,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.12,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:06:58.750767"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.28,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 44.49,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.84,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.92,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.23,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 36.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 39.88,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.36,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.73,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.12,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:07:11.869674"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.91,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 44.26,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.72,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 33.02,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.29,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.51,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 36.4,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.41,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.56,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.12,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:07:25.885216"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.53,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 43.48,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.96,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.23,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 35.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 39.79,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.82,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.36,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.73,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.39,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:07:38.627975"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.53,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 43.26,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.96,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.35,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.08,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 35.3,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.82,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.32,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.82,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.32,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:07:51.256997"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.53,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.59,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.18,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 41.22,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 34.81,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 39.83,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.62,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.27,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.65,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.12,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000.0,
+        "time": "2026-08-06 13:08:01.607381"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.53,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.84,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.23,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 41.31,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 34.83,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 39.91,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.72,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.27,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.65,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.12,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:08:03.886625"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.53,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.84,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.92,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.35,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.22,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 41.89,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 34.97,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.32,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.82,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.39,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000.0,
+        "time": "2026-08-06 13:08:16.010737"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.53,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.96,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.92,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.35,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.22,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 41.89,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 34.97,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.32,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.91,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.39,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:08:16.948137"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.53,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 42.34,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.59,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.18,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 34.75,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 39.83,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.62,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.18,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.48,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.26,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000.0,
+        "time": "2026-08-06 13:08:28.668254"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.53,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 42.34,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.59,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.18,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 34.75,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 39.83,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.72,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.23,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.56,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.26,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:08:29.615741"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.53,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 42.4,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.47,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.92,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.41,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.35,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 34.9,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.65,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.27,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.39,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000.0,
+        "time": "2026-08-06 13:08:41.787901"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.53,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 42.37,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.47,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.92,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.41,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.53,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 34.97,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.73,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.27,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.39,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:08:42.311833"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.15,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 42.49,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.12,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.35,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.03,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 34.87,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.72,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.56,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.23,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.39,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000.0,
+        "time": "2026-08-06 13:08:54.582807"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.15,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 42.49,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.12,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.35,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.03,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 34.87,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.72,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.56,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.23,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.39,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:08:55.124599"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.15,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 43.54,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.18,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 41.77,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 34.61,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 39.67,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.62,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.31,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.09,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.39,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000.0,
+        "time": "2026-08-06 13:09:07.388682"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.15,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 43.42,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.18,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 41.77,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 34.59,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 39.68,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.62,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.31,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.09,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.39,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:09:07.946259"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 47.79,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 42.31,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 43.31,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.23,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 34.61,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 39.4,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.42,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.14,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.09,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.39,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000.0,
+        "time": "2026-08-06 13:09:20.778643"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 47.79,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 42.28,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 43.31,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.23,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 34.61,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 39.4,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.32,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.14,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.09,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.39,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:09:21.275842"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 47.79,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 42.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 43.31,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.18,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 34.64,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 39.47,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.62,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.31,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.09,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.39,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000.0,
+        "time": "2026-08-06 13:09:33.894785"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 47.79,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 42.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 43.31,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.18,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 34.75,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 39.47,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.62,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.31,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.09,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.39,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000,
+        "time": "2026-08-06 13:09:33.969674"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.15,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 43.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.18,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 42.04,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 34.64,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 39.17,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 32.72,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.22,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.0,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.39,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 1000.0,
+        "time": "2026-08-06 13:09:58.469975"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.15,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 43.45,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 43.54,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 33.02,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.78,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.34,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 35.07,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.31,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.41,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.6,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 850.0,
+        "time": "2026-08-06 13:13:08.275540"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 47.79,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 43.77,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 43.65,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 33.12,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.78,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.61,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 35.09,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.48,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.81,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 850.0,
+        "time": "2026-08-06 13:13:20.907067"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 47.79,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 43.84,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 33.23,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.9,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.74,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 35.31,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.65,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.64,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.81,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 850.0,
+        "time": "2026-08-06 13:13:33.575240"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.53,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 44.26,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 33.33,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 35.96,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.84,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 35.4,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.65,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.59,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.81,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 850.0,
+        "time": "2026-08-06 13:13:46.626398"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.53,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 44.56,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 33.33,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.02,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.84,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 35.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.65,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.59,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.81,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 850.0,
+        "time": "2026-08-06 13:13:59.271335"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.53,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 44.36,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.35,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 33.33,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.08,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.95,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 35.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.82,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.64,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.88,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 850.0,
+        "time": "2026-08-06 13:14:11.972470"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.53,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 44.23,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 44.47,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 33.44,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 36.02,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 40.93,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 35.45,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 24.65,
+                "trend": "DOWN",
+                "volume": "MEDIUM",
+                "score": 5
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 18.64,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 23.88,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 0
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "ADAUSDT",
+            "reason": "Posizione aperta"
+        },
+        "history": [],
+        "balance": 850.0,
+        "time": "2026-08-06 13:14:24.943173"
     }
 ]

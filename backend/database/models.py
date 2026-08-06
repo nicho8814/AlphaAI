@@ -7,6 +7,7 @@ Base = declarative_base()
 
 
 class MarketPrice(Base):
+
     __tablename__ = "market_prices"
 
     id = Column(
@@ -29,6 +30,7 @@ class MarketPrice(Base):
 
 
 class AIDecision(Base):
+
     __tablename__ = "ai_decisions"
 
     id = Column(
@@ -55,6 +57,7 @@ class AIDecision(Base):
 
 
 class Position(Base):
+
     __tablename__ = "positions"
 
     id = Column(
@@ -84,6 +87,25 @@ class Position(Base):
     )
 
     created_at = Column(
+        DateTime,
+        default=datetime.utcnow
+    )
+
+
+class Account(Base):
+
+    __tablename__ = "account"
+
+    id = Column(
+        Integer,
+        primary_key=True
+    )
+
+    balance = Column(
+        Float
+    )
+
+    updated_at = Column(
         DateTime,
         default=datetime.utcnow
     )

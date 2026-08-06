@@ -1,5 +1,5 @@
 from database.connection import SessionLocal
-from database.models import Position
+from database.models import Position, Account
 
 
 class Simulator:
@@ -12,7 +12,60 @@ class Simulator:
         self.symbol = None
         self.history = []
 
+        self.load_account()
         self.load_position()
+
+
+    def load_account(self):
+
+        db = SessionLocal()
+
+        try:
+            account = db.query(Account).first()
+
+            if account:
+                self.balance = account.balance
+                print("ACCOUNT DEBUG BALANCE:", self.balance)
+
+            else:
+                account = Account(
+                    balance=self.balance
+                )
+
+                db.add(account)
+                db.commit()
+
+                print("ACCOUNT CREATED:", self.balance)
+
+        finally:
+            db.close()
+
+
+
+    def save_balance(self):
+
+        db = SessionLocal()
+
+        try:
+            account = db.query(Account).first()
+
+            if account:
+                account.balance = self.balance
+
+            else:
+                account = Account(
+                    balance=self.balance
+                )
+
+                db.add(account)
+
+            db.commit()
+
+            print("BALANCE SAVED:", self.balance)
+
+        finally:
+            db.close()
+
 
 
     def load_position(self):
@@ -27,12 +80,20 @@ class Simulator:
             )
 
             if position:
+
                 self.symbol = position.symbol
                 self.entry_price = position.entry_price
                 self.position = position.amount
 
+                print(
+                    "POSITION LOADED:",
+                    self.symbol,
+                    self.entry_price
+                )
+
         finally:
             db.close()
+
 
 
     def buy(self, symbol, price, amount):
@@ -62,13 +123,15 @@ class Simulator:
         db.close()
 
 
-        self.history.append({
-            "action": "BUY",
-            "symbol": symbol,
-            "price": price,
-            "amount": self.position,
-            "capital_used": amount
-        })
+        self.save_balance()
+
+
+        print(
+            "BUY SAVED:",
+            symbol,
+            "BALANCE:",
+            self.balance
+        )
 
 
         return "BUY executed"
@@ -111,13 +174,15 @@ class Simulator:
         db.close()
 
 
-        self.history.append({
-            "action": "SELL",
-            "symbol": self.symbol,
-            "price": price,
-            "reason": reason,
-            "profit": round(profit, 2)
-        })
+        self.save_balance()
+
+
+        print(
+            "SELL SAVED:",
+            self.symbol,
+            "BALANCE:",
+            self.balance
+        )
 
 
         self.position = 0

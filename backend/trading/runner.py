@@ -13,7 +13,15 @@ telegram = TelegramBot()
 
 symbols = [
     "BTCUSDT",
-    "SOLUSDT"
+    "ETHUSDT",
+    "SOLUSDT",
+    "BNBUSDT",
+    "XRPUSDT",
+    "ADAUSDT",
+    "AVAXUSDT",
+    "LINKUSDT",
+    "DOGEUSDT",
+    "SUIUSDT"
 ]
 
 
