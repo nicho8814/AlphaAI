@@ -1,11 +1,10 @@
 from database.connection import SessionLocal
-from database.models import Position, Account
+from database.models import Position, Account, TradeHistory
 
 
 class Simulator:
 
     def __init__(self, balance=1000):
-
         self.balance = balance
         self.position = 0
         self.entry_price = 0
@@ -17,7 +16,6 @@ class Simulator:
 
 
     def load_account(self):
-
         db = SessionLocal()
 
         try:
@@ -26,15 +24,16 @@ class Simulator:
             if account:
                 self.balance = account.balance
 
-            print("ACCOUNT LOADED:", round(self.balance, 2))
+            print(
+                "ACCOUNT LOADED:",
+                round(self.balance, 2)
+            )
 
         finally:
             db.close()
 
 
-
     def save_balance(self):
-
         db = SessionLocal()
 
         try:
@@ -49,22 +48,17 @@ class Simulator:
             db.close()
 
 
-
     def load_position(self):
-
         db = SessionLocal()
 
         try:
-
             position = (
                 db.query(Position)
                 .filter(Position.status == "OPEN")
                 .first()
             )
 
-
             if position:
-
                 self.symbol = position.symbol
                 self.entry_price = position.entry_price
                 self.position = position.amount
@@ -87,16 +81,13 @@ class Simulator:
         print("PRICE:", price)
         print("CAPITAL:", amount)
         print("BALANCE BEFORE:", self.balance)
-        print("=====================")
 
 
         if amount > self.balance:
-
             return "NOT ENOUGH BALANCE"
 
 
         crypto_amount = amount / price
-
 
         self.position = crypto_amount
         self.balance -= amount
@@ -109,24 +100,34 @@ class Simulator:
         try:
 
             position = Position(
-
                 symbol=symbol,
                 entry_price=price,
                 amount=crypto_amount,
                 capital_used=amount,
                 status="OPEN"
-
             )
 
-
             db.add(position)
+
+
+            trade = TradeHistory(
+                symbol=symbol,
+                action="BUY",
+                entry_price=price,
+                exit_price=0,
+                amount=crypto_amount,
+                capital_used=amount,
+                profit=0,
+                reason="ENTRY"
+            )
+
+            db.add(trade)
+
             db.commit()
 
 
         finally:
-
             db.close()
-
 
 
         self.save_balance()
@@ -136,7 +137,7 @@ class Simulator:
             "BUY SAVED:",
             symbol,
             "BALANCE:",
-            round(self.balance, 2)
+            round(self.balance,2)
         )
 
 
@@ -148,22 +149,10 @@ class Simulator:
 
 
         if self.position == 0:
-
             return "NO POSITION"
 
 
-
-        print("===== SELL DEBUG =====")
-        print("SYMBOL:", self.symbol)
-        print("POSITION:", self.position)
-        print("PRICE:", price)
-        print("ENTRY:", self.entry_price)
-        print("VALUE:", self.position * price)
-        print("BALANCE BEFORE:", self.balance)
-        print("=====================")
-
         value = self.position * price
-        print("SELL VALUE:", value)
 
         profit = value - (
             self.position * self.entry_price
@@ -173,8 +162,8 @@ class Simulator:
         self.balance += value
 
 
-
         db = SessionLocal()
+
 
         try:
 
@@ -189,47 +178,57 @@ class Simulator:
 
 
             if position:
-
                 position.status = "CLOSED"
 
+
+            trade = TradeHistory(
+                symbol=self.symbol,
+                action="SELL",
+                entry_price=self.entry_price,
+                exit_price=price,
+                amount=self.position,
+                capital_used=(
+                    self.position * self.entry_price
+                ),
+                profit=round(profit,2),
+                reason=reason
+            )
+
+
+            db.add(trade)
 
             db.commit()
 
 
         finally:
-
             db.close()
 
 
-
         self.save_balance()
-
-
-
-        self.history.append({
-
-            "action": "SELL",
-            "symbol": self.symbol,
-            "price": price,
-            "reason": reason,
-            "profit": round(profit, 2)
-
-        })
 
 
         print(
             "SELL SAVED:",
             self.symbol,
             "BALANCE:",
-            round(self.balance, 2)
+            round(self.balance,2),
+            "PROFIT:",
+            round(profit,2)
         )
 
+
+        self.history.append(
+            {
+                "action":"SELL",
+                "symbol":self.symbol,
+                "profit":round(profit,2)
+            }
+        )
 
 
         self.position = 0
         self.entry_price = 0
         self.symbol = None
-
 
 
         return "SELL executed"
@@ -238,11 +237,8 @@ class Simulator:
 
     def check_risk(self, price):
 
-
         if self.entry_price == 0:
-
             return None
-
 
 
         change = (
@@ -250,17 +246,12 @@ class Simulator:
         ) / self.entry_price
 
 
-
         if change <= -0.02:
-
             return "STOP_LOSS"
 
 
-
         if change >= 0.05:
-
             return "TAKE_PROFIT"
-
 
 
         return None

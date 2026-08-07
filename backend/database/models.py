@@ -7,7 +7,6 @@ Base = declarative_base()
 
 
 class MarketPrice(Base):
-
     __tablename__ = "market_prices"
 
     id = Column(
@@ -30,7 +29,6 @@ class MarketPrice(Base):
 
 
 class AIDecision(Base):
-
     __tablename__ = "ai_decisions"
 
     id = Column(
@@ -57,7 +55,6 @@ class AIDecision(Base):
 
 
 class Position(Base):
-
     __tablename__ = "positions"
 
     id = Column(
@@ -93,7 +90,6 @@ class Position(Base):
 
 
 class Account(Base):
-
     __tablename__ = "account"
 
     id = Column(
@@ -106,6 +102,52 @@ class Account(Base):
     )
 
     updated_at = Column(
+        DateTime,
+        default=datetime.utcnow
+    )
+
+
+class TradeHistory(Base):
+    __tablename__ = "trade_history"
+
+    id = Column(
+        Integer,
+        primary_key=True
+    )
+
+    symbol = Column(
+        String
+    )
+
+    action = Column(
+        String
+    )
+
+    entry_price = Column(
+        Float
+    )
+
+    exit_price = Column(
+        Float
+    )
+
+    amount = Column(
+        Float
+    )
+
+    capital_used = Column(
+        Float
+    )
+
+    profit = Column(
+        Float
+    )
+
+    reason = Column(
+        String
+    )
+
+    created_at = Column(
         DateTime,
         default=datetime.utcnow
     )

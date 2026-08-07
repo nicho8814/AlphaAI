@@ -14,8 +14,15 @@ class AlphaAI:
 
     def run(self, symbols):
 
-        print("DEBUG POSITION:", self.simulator.position)
-        print("DEBUG SYMBOL:", self.simulator.symbol)
+        print(
+            "DEBUG POSITION:",
+            self.simulator.position
+        )
+
+        print(
+            "DEBUG SYMBOL:",
+            self.simulator.symbol
+        )
 
 
         markets = self.market_manager.get_live_markets(symbols)
@@ -29,32 +36,20 @@ class AlphaAI:
         )
 
 
-        symbol = decision.get("symbol")
+        # PREZZO DELLA DECISIONE AI (solo per BUY)
 
-        price = None
+        decision_symbol = decision.get("symbol")
+
+        buy_price = None
 
 
         for market in markets:
 
-            if market["symbol"] == symbol:
+            if market["symbol"] == decision_symbol:
 
-                price = market["prices"][-1]
+                buy_price = market["prices"][-1]
+
                 break
-
-
-        # PREZZO NON TROVATO
-
-        if price is None:
-
-            return {
-                "analysis": analysis,
-                "decision": {
-                    "action": "HOLD",
-                    "reason": "Prezzo non trovato"
-                },
-                "history": self.simulator.history,
-                "balance": self.simulator.balance
-            }
 
 
 
@@ -63,25 +58,73 @@ class AlphaAI:
         if self.simulator.position > 0:
 
 
+            current_price = None
+
+
+            # CERCA IL PREZZO DELLA POSIZIONE APERTA
+            for market in markets:
+
+                if market["symbol"] == self.simulator.symbol:
+
+                    current_price = market["prices"][-1]
+
+                    break
+
+
+
+            if current_price is None:
+
+                return {
+                    "decision": {
+                        "action": "HOLD",
+                        "reason": "Prezzo posizione non trovato"
+                    },
+                    "balance": self.simulator.balance
+                }
+
+
+
             change = (
-                (price - self.simulator.entry_price)
-                / self.simulator.entry_price
+                (current_price - self.simulator.entry_price)
+                /
+                self.simulator.entry_price
             ) * 100
 
 
+
             print("\n===== OPEN POSITION =====")
-            print("Symbol:", self.simulator.symbol)
-            print("Entry:", round(self.simulator.entry_price, 4))
-            print("Current:", round(price, 4))
-            print("P/L:", round(change, 2), "%")
 
-            risk = self.simulator.check_risk(price)
+            print(
+                "Symbol:",
+                self.simulator.symbol
+            )
 
-            print("Risk:", risk if risk else "NONE")
-            print("=========================")
+            print(
+                "Entry:",
+                round(self.simulator.entry_price,4)
+            )
+
+            print(
+                "Current:",
+                round(current_price,4)
+            )
+
+            print(
+                "P/L:",
+                round(change,2),
+                "%"
+            )
 
 
-            risk = self.simulator.check_risk(price)
+
+            risk = self.simulator.check_risk(current_price)
+
+
+            print(
+                "Risk:",
+                risk if risk else "NONE"
+            )
+
 
 
             if risk:
@@ -91,31 +134,27 @@ class AlphaAI:
 
 
                 self.simulator.sell(
-                    price,
+                    current_price,
                     risk
                 )
 
 
                 decision = {
-
                     "action": "SELL",
                     "symbol": old_symbol,
                     "reason": risk,
                     "score": None
-
                 }
 
 
             else:
 
-
                 decision = {
-
                     "action": "HOLD",
                     "symbol": self.simulator.symbol,
                     "reason": "Posizione aperta"
-
                 }
+
 
 
 
@@ -132,20 +171,27 @@ class AlphaAI:
 
             self.simulator.buy(
                 decision["symbol"],
-                price,
+                buy_price,
                 amount
             )
 
 
-            decision["price"] = price
+            decision["price"] = buy_price
+
 
 
 
         return {
 
             "analysis": analysis,
+
             "decision": decision,
+
             "history": self.simulator.history,
-            "balance": round(self.simulator.balance, 2)
+
+            "balance": round(
+                self.simulator.balance,
+                2
+            )
 
         }
