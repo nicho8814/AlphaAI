@@ -4,16 +4,16 @@ from indicators.technical import TechnicalIndicators
 class MarketScanner:
 
     def __init__(self):
-
         self.technical = TechnicalIndicators()
-
 
     def calculate_score(self, rsi, trend, volume):
 
         score = 0
 
-
+        # =========================
         # RSI
+        # =========================
+
         if 40 <= rsi <= 60:
             score += 35
 
@@ -27,7 +27,10 @@ class MarketScanner:
             score += 10
 
 
-        # Trend
+        # =========================
+        # TREND
+        # =========================
+
         if trend == "UP":
             score += 40
 
@@ -38,7 +41,10 @@ class MarketScanner:
             score -= 20
 
 
-        # Volume
+        # =========================
+        # VOLUME
+        # =========================
+
         if volume == "HIGH":
             score += 25
 
@@ -49,58 +55,50 @@ class MarketScanner:
             score += 5
 
 
+        # Non permettere score negativi
         return max(score, 0)
-
 
 
     def analyze_market(self, symbol, prices, volumes):
 
-        rsi = self.technical.calculate_rsi(prices)
+        try:
 
-        trend = self.technical.calculate_trend(prices)
+            rsi = self.technical.calculate_rsi(prices)
 
-        volume = self.technical.calculate_volume(volumes)
-
-
-        score = self.calculate_score(
-            rsi,
-            trend,
-            volume
-        )
-
-
-        return {
-
-            "symbol": symbol,
-            "rsi": rsi,
-            "trend": trend,
-            "volume": volume,
-            "score": score
-
-        }
-
-
-
-    def scan(self, markets):
-
-        results = []
-
-
-        for market in markets:
-
-            result = self.analyze_market(
-                market["symbol"],
-                market["prices"],
-                market["volumes"]
+            trend = self.technical.calculate_trend(
+                prices
             )
 
-            results.append(result)
+            volume = self.technical.calculate_volume(
+                volumes
+            )
 
+            score = self.calculate_score(
+                rsi,
+                trend,
+                volume
+            )
 
-        results.sort(
-            key=lambda x: x["score"],
-            reverse=True
-        )
+            return {
+                "symbol": symbol,
+                "rsi": rsi,
+                "trend": trend,
+                "volume": volume,
+                "score": score
+            }
 
+        except Exception as e:
 
-        return results
+            print(
+                "ANALYSIS ERROR:",
+                symbol,
+                e
+            )
+
+            return {
+                "symbol": symbol,
+                "rsi": None,
+                "trend": "UNKNOWN",
+                "volume": "UNKNOWN",
+                "score": 0
+            }

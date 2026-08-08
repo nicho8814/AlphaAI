@@ -7,6 +7,7 @@ Base = declarative_base()
 
 
 class MarketPrice(Base):
+
     __tablename__ = "market_prices"
 
     id = Column(
@@ -29,6 +30,7 @@ class MarketPrice(Base):
 
 
 class AIDecision(Base):
+
     __tablename__ = "ai_decisions"
 
     id = Column(
@@ -55,6 +57,7 @@ class AIDecision(Base):
 
 
 class Position(Base):
+
     __tablename__ = "positions"
 
     id = Column(
@@ -90,6 +93,7 @@ class Position(Base):
 
 
 class Account(Base):
+
     __tablename__ = "account"
 
     id = Column(
@@ -108,6 +112,7 @@ class Account(Base):
 
 
 class TradeHistory(Base):
+
     __tablename__ = "trade_history"
 
     id = Column(

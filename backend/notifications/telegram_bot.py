@@ -1,5 +1,6 @@
 import os
 import requests
+
 from dotenv import load_dotenv
 
 
@@ -14,11 +15,15 @@ class TelegramBot:
         self.chat_id = os.getenv("TELEGRAM_CHAT_ID")
 
         self.url = (
-            f"https://api.telegram.org/bot{self.token}/sendMessage"
+            f"https://api.telegram.org/"
+            f"bot{self.token}/sendMessage"
         )
 
-
     def send_message(self, message):
+
+        if not self.token or not self.chat_id:
+            print("Telegram error: TOKEN o CHAT_ID mancanti")
+            return None
 
         try:
 
@@ -29,13 +34,20 @@ class TelegramBot:
 
             response = requests.post(
                 self.url,
-                data=data
+                data=data,
+                timeout=10
             )
 
-            return response.json()
+            response.raise_for_status()
 
+            result = response.json()
+
+            print("Telegram:", result)
+
+            return result
 
         except Exception as e:
 
             print("Telegram error:", e)
+
             return None
