@@ -32,7 +32,6 @@ symbols = [
     "AAVEUSDT",
     "ETCUSDT",
 ]
-last_signal = None
 while True:
     try:
         result = bot.run(symbols)
@@ -50,55 +49,48 @@ while True:
         # =====================================================
         # TELEGRAM
         # =====================================================
-        # BUY / SELL / SWITCH sono eventi importanti.
-        # HOLD non viene inviato.
-        telegram_event = action in [
-            "BUY",
-            "SELL",
-            "SWITCH"
-        ]
-        current_signal = (
-            action,
-            symbol
-        )
-        if telegram_event and current_signal != last_signal:
-            if action == "SWITCH":
-                message = (
-                    "🔄 ALPHAAI SWITCH\n\n"
-                    f"SELL: {decision.get('sell_symbol')}\n"
-                    f"SELL PRICE: {decision.get('sell_price')}\n\n"
-                    f"BUY: {decision.get('buy_symbol')}\n"
-                    f"BUY PRICE: {decision.get('buy_price')}\n\n"
-                    f"OLD SCORE: {decision.get('old_score')}\n"
-                    f"NEW SCORE: {decision.get('new_score')}\n\n"
-                    f"Balance: {result['balance']}"
-                )
-            elif action == "BUY":
-                message = (
-                    "🟢 ALPHAAI BUY\n\n"
-                    f"Symbol: {symbol}\n"
-                    f"Price: {decision.get('price')}\n"
-                    f"Score: {decision.get('score')}\n"
-                    f"Confidence: "
-                    f"{decision.get('confidence', 'N/A')}\n"
-                    f"Balance: {result['balance']}"
-                )
-            else:
-                reason = decision.get(
-                    "reason",
-                    "SELL"
-                )
-                message = (
-                    "🔴 ALPHAAI SELL\n\n"
-                    f"Symbol: {symbol}\n"
-                    f"Price: {decision.get('price')}\n"
-                    f"Reason: {reason}\n"
-                    f"Score: {decision.get('score')}\n"
-                    f"Balance: {result['balance']}"
-                )
+        # HOLD non viene notificato.
+        # BUY, SELL e SWITCH vengono notificati.
+        if action == "SWITCH":
+            message = (
+                "🔄 ALPHAAI SWITCH\n\n"
+                f"SELL: {decision.get('sell_symbol')}\n"
+                f"SELL PRICE: {decision.get('sell_price')}\n\n"
+                f"BUY: {decision.get('buy_symbol')}\n"
+                f"BUY PRICE: {decision.get('buy_price')}\n\n"
+                f"OLD SCORE: {decision.get('old_score')}\n"
+                f"NEW SCORE: {decision.get('new_score')}\n\n"
+                f"Balance: {result['balance']}"
+            )
             telegram.send_message(message)
-            last_signal = current_signal
-            print("Telegram signal sent")
+            print("Telegram SWITCH sent")
+        elif action == "BUY":
+            message = (
+                "🟢 ALPHAAI BUY\n\n"
+                f"Symbol: {symbol}\n"
+                f"Price: {decision.get('price')}\n"
+                f"Score: {decision.get('score')}\n"
+                f"Confidence: "
+                f"{decision.get('confidence', 'N/A')}\n"
+                f"Balance: {result['balance']}"
+            )
+            telegram.send_message(message)
+            print("Telegram BUY sent")
+        elif action == "SELL":
+            reason = decision.get(
+                "reason",
+                "SELL"
+            )
+            message = (
+                "🔴 ALPHAAI SELL\n\n"
+                f"Symbol: {symbol}\n"
+                f"Price: {decision.get('price')}\n"
+                f"Reason: {reason}\n"
+                f"Score: {decision.get('score')}\n"
+                f"Balance: {result['balance']}"
+            )
+            telegram.send_message(message)
+            print("Telegram SELL sent")
         else:
             print("No new signal - Telegram skipped")
     except Exception as e:

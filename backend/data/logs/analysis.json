@@ -308072,5 +308072,3425 @@
         ],
         "balance": 849.79,
         "time": "2026-08-09 13:19:14.983426"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 69.24,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 44.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 50.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 36.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 60.1,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 49.34,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 57.28,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 48.63,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 48.18,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 51.93,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 58.55,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 59.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 41.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 57.47,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 46.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 52.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 50.45,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 54.45,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 50.49,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 60.3,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 67.86,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 61.32,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 71.43,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 607.05,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:24:13.435506"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 69.31,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 44.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 51.22,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 36.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 60.41,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 49.34,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 57.28,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 49.03,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 47.71,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 52.14,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 58.97,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 59.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 41.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 57.95,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 46.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 52.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 50.45,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 53.23,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 50.49,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 61.15,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 67.86,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 61.32,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 71.78,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 607.09,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:24:32.232299"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 69.31,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 44.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 50.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 35.14,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 60.71,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 49.01,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 57.28,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 49.03,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 47.71,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 51.93,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 58.76,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 59.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 57.95,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 46.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 52.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 50.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 52.72,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 50.16,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 60.91,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 67.86,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 61.32,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 71.25,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 40.35,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 607.09,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:24:51.851360"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 69.29,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 50.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 36.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 60.71,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 49.01,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 57.28,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 48.83,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 47.71,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 51.93,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 58.76,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 41.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 59.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 41.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 57.95,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 46.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 52.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 49.54,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 53.48,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 50.16,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 60.91,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 67.86,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 61.32,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 71.6,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 607.08,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:25:10.817880"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 69.29,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 50.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 36.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 61.03,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 49.01,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 58.3,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 49.03,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 47.71,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 52.34,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 58.97,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 41.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 59.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 41.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 57.95,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 46.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 52.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 49.54,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 52.72,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 50.32,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 60.92,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 67.86,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 61.32,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 72.12,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 607.08,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:25:28.786775"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 69.14,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 50.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 35.14,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 61.03,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 49.01,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 58.3,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 49.03,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 47.71,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 52.14,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 58.97,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 41.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 59.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 41.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 57.95,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 44.83,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 52.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 49.54,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 52.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 50.32,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 60.91,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 67.86,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 61.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 72.12,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 607.0,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:25:45.903119"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 69.14,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 44.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 50.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 35.14,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 60.71,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 49.01,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 58.3,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 49.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 47.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 52.14,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 59.18,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 59.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 56.98,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 46.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 51.98,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 49.07,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 52.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 49.5,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 60.91,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 67.86,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 61.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 71.95,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 40.35,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 607.0,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:26:02.933880"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 69.16,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 44.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 50.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 35.14,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 60.71,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 49.01,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 58.3,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 49.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 47.71,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 51.93,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 58.97,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 59.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 56.98,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 46.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 51.98,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 48.11,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 51.93,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 49.5,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 60.6,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 68.97,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 61.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 71.78,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 40.35,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 607.01,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:26:20.040510"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 69.18,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 44.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 50.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 35.14,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 60.71,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 49.01,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 58.3,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 48.83,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 47.71,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 51.72,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 58.97,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 59.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 56.98,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 46.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 51.26,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 48.11,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 51.4,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 49.5,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 60.48,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 67.86,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 61.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 71.6,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 40.35,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 20
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 607.02,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:26:37.145181"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 69.16,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 44.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 50.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 35.14,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 61.34,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 48.67,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 58.3,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 49.03,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 47.71,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 51.52,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 58.97,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 59.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 57.47,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 46.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 51.26,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 48.11,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 51.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 49.5,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 60.46,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 67.86,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 61.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 71.6,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 39.29,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 607.01,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:26:54.268057"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 68.57,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 44.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 50.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 35.14,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 61.66,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 48.67,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 58.3,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 48.83,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 47.71,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 51.52,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 58.76,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 59.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 57.47,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 46.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 51.26,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 48.11,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 51.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 49.5,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 60.47,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 68.97,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 61.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 71.6,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 39.29,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 606.7,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:27:11.354006"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 68.18,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 50.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 35.14,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 61.66,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 48.67,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 58.3,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 48.83,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 47.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 51.3,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 58.76,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 39.13,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 59.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 57.47,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 46.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 51.26,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 48.11,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 51.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 49.5,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 60.47,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 67.86,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 61.32,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 71.6,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 39.29,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 606.5,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:27:31.105491"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 68.5,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 50.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 36.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 61.66,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 47.97,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 58.3,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 49.03,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 47.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 51.52,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 58.76,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 39.13,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 59.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 57.47,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 46.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 51.26,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 48.11,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 51.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 49.5,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 60.47,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 68.97,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 61.32,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 71.43,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 39.29,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 606.66,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:27:48.183783"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 68.5,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 50.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 36.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 61.34,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 47.62,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 58.3,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 49.03,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 47.71,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 51.52,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 58.76,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 39.13,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 59.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 57.95,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 46.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 51.26,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 48.11,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 51.93,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 49.5,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 60.46,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 68.97,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 61.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 71.25,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 39.29,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 606.66,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:28:05.725496"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 68.55,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 50.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 35.14,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 61.03,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 47.26,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 58.3,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 49.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 46.23,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 51.52,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 58.76,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 39.13,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 58.73,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 57.95,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 46.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 51.26,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 48.11,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 51.93,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 49.5,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 60.58,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 67.86,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 61.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 71.43,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 39.29,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 606.69,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:28:23.203330"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 68.55,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 50.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 35.14,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 61.03,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 47.62,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 58.76,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 58.86,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 49.42,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 46.73,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 51.72,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 39.13,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 58.73,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 57.95,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 46.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 51.5,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 48.11,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 52.46,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 49.84,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 60.57,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 68.97,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 61.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 71.25,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 39.29,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 606.69,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:28:40.731865"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 68.71,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 50.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 35.14,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 61.03,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 47.97,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 58.33,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 41.67,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 58.92,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 49.62,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 46.23,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 51.93,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 58.73,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 57.95,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 46.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 51.5,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 48.11,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 52.72,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 50.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 60.92,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 68.97,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 62.39,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 71.43,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 39.29,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 606.77,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:28:57.850082"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 68.82,
+                "trend": "UP",
+                "volume": "MEDIUM",
+                "score": 80
+            },
+            {
+                "symbol": "ARBUSDT",
+                "rsi": 40.74,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "OPUSDT",
+                "rsi": 50.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 80
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 36.0,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "INJUSDT",
+                "rsi": 61.03,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 47.97,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 57.67,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "DOTUSDT",
+                "rsi": 41.67,
+                "trend": "SIDEWAYS",
+                "volume": "MEDIUM",
+                "score": 65
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 58.92,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 49.42,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 46.73,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 51.93,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BCHUSDT",
+                "rsi": 58.73,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "NEARUSDT",
+                "rsi": 57.95,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "APTUSDT",
+                "rsi": 46.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "FILUSDT",
+                "rsi": 51.5,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "TIAUSDT",
+                "rsi": 48.11,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "UNIUSDT",
+                "rsi": 52.72,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AAVEUSDT",
+                "rsi": 50.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETCUSDT",
+                "rsi": 53.85,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 60.92,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "TRXUSDT",
+                "rsi": 68.97,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LTCUSDT",
+                "rsi": 62.04,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 71.43,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "ATOMUSDT",
+                "rsi": 39.29,
+                "trend": "DOWN",
+                "volume": "LOW",
+                "score": 10
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BNBUSDT",
+            "price": 606.83,
+            "reason": "Posizione aperta",
+            "score": 80,
+            "best_score": 80
+        },
+        "history": [],
+        "balance": 849.79,
+        "time": "2026-08-09 13:29:14.891611"
     }
 ]
