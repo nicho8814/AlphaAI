@@ -315,6 +315,7 @@ class AlphaAI:
                 best_coin
                 and best_coin["symbol"] != current_symbol
                 and best_score >= current_score + self.SWITCH_SCORE_GAP
+                and change >= 2.0
                 and not self.is_switch_cooldown()
             ):
                 new_symbol = best_coin["symbol"]
