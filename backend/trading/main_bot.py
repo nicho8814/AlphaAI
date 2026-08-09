@@ -10,7 +10,7 @@ class AlphaAI:
     COOLDOWN_MINUTES = 180
     # Per cambiare moneta, la nuova opportunità deve
     # avere almeno 10 punti di score in più.
-    SWITCH_SCORE_GAP = 10
+    SWITCH_SCORE_GAP = 20
     def __init__(self, balance=1000):
         self.market_manager = MarketManager()
         self.simulator = Simulator(balance)
