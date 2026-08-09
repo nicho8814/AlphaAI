@@ -1,25 +1,36 @@
 from datetime import datetime, timedelta
+
 from database.connection import SessionLocal
 from database.models import TradeHistory
+
 from market.market_manager import MarketManager
 from trading.simulator import Simulator
 from ai_engine.decision_engine import DecisionEngine
+
+
 class AlphaAI:
-    # Dopo un SELL, la stessa moneta non può essere
-    # ricomprata immediatamente.
+
+    # Dopo un SELL, la stessa moneta non può essere ricomprata
+    # per 30 minuti.
     COOLDOWN_MINUTES = 30
-    # Per cambiare moneta, la nuova opportunità deve
-    # avere almeno 10 punti di score in più.
+
+    # Per cambiare moneta, la nuova opportunità deve avere
+    # almeno 20 punti di score in più.
     SWITCH_SCORE_GAP = 20
+
     def __init__(self, balance=1000):
         self.market_manager = MarketManager()
         self.simulator = Simulator(balance)
         self.decision_engine = DecisionEngine()
+
     # =========================================================
-    # COOLDOWN
+    # COOLDOWN SULLA SINGOLA MONETA
     # =========================================================
+
     def is_in_cooldown(self, symbol):
+
         db = SessionLocal()
+
         try:
             last_sell = (
                 db.query(TradeHistory)
@@ -32,62 +43,83 @@ class AlphaAI:
                 )
                 .first()
             )
+
             if not last_sell:
                 return False
+
             if not last_sell.created_at:
                 return False
+
             cooldown_until = (
                 last_sell.created_at
-                + timedelta(
-                    minutes=self.COOLDOWN_MINUTES
-                )
+                + timedelta(minutes=self.COOLDOWN_MINUTES)
             )
+
             return datetime.utcnow() < cooldown_until
+
         finally:
             db.close()
-            def is_switch_cooldown(self):
-                db = SessionLocal()
 
-                try:
-                    last_switch = (
-                        db.query(TradeHistory)
-                        .filter(
-                            TradeHistory.action == "SELL",
-                            TradeHistory.reason == "SWITCH_TO_BETTER"
-                        )
-                        .order_by(TradeHistory.created_at.desc())
-                        .first()
-                    )
+    # =========================================================
+    # COOLDOWN GLOBALE TRA GLI SWITCH
+    # =========================================================
 
-                    if not last_switch:
-                        return False
+    def is_switch_cooldown(self):
 
-                    if not last_switch.created_at:
-                        return False
+        db = SessionLocal()
 
-                    cooldown_until = (
-                        last_switch.created_at
-                        + timedelta(minutes=30)
-                    )
+        try:
+            last_switch = (
+                db.query(TradeHistory)
+                .filter(
+                    TradeHistory.action == "SELL",
+                    TradeHistory.reason == "SWITCH_TO_BETTER"
+                )
+                .order_by(
+                    TradeHistory.created_at.desc()
+                )
+                .first()
+            )
 
-                    return datetime.utcnow() < cooldown_until
+            if not last_switch:
+                return False
 
-                finally:
-                    db.close()
+            if not last_switch.created_at:
+                return False
+
+            cooldown_until = (
+                last_switch.created_at
+                + timedelta(minutes=30)
+            )
+
+            return datetime.utcnow() < cooldown_until
+
+        finally:
+            db.close()
+
     # =========================================================
     # TROVA MIGLIORE OPPORTUNITÀ
     # =========================================================
+
     def get_best_available_coin(self, analysis):
+
         available = []
+
         for coin in analysis:
+
             symbol = coin.get("symbol")
+
             if not symbol:
                 continue
+
             if self.is_in_cooldown(symbol):
                 continue
+
             available.append(coin)
+
         if not available:
             return None
+
         return max(
             available,
             key=lambda coin: coin.get("score", 0)
