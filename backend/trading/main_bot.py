@@ -7,7 +7,7 @@ from ai_engine.decision_engine import DecisionEngine
 class AlphaAI:
     # Dopo un SELL, la stessa moneta non può essere
     # ricomprata immediatamente.
-    COOLDOWN_MINUTES = 180
+    COOLDOWN_MINUTES = 30
     # Per cambiare moneta, la nuova opportunità deve
     # avere almeno 10 punti di score in più.
     SWITCH_SCORE_GAP = 20
@@ -45,6 +45,35 @@ class AlphaAI:
             return datetime.utcnow() < cooldown_until
         finally:
             db.close()
+            def is_switch_cooldown(self):
+                db = SessionLocal()
+
+                try:
+                    last_switch = (
+                        db.query(TradeHistory)
+                        .filter(
+                            TradeHistory.action == "SELL",
+                            TradeHistory.reason == "SWITCH_TO_BETTER"
+                        )
+                        .order_by(TradeHistory.created_at.desc())
+                        .first()
+                    )
+
+                    if not last_switch:
+                        return False
+
+                    if not last_switch.created_at:
+                        return False
+
+                    cooldown_until = (
+                        last_switch.created_at
+                        + timedelta(minutes=30)
+                    )
+
+                    return datetime.utcnow() < cooldown_until
+
+                finally:
+                    db.close()
     # =========================================================
     # TROVA MIGLIORE OPPORTUNITÀ
     # =========================================================
@@ -253,8 +282,8 @@ class AlphaAI:
             if (
                 best_coin
                 and best_coin["symbol"] != current_symbol
-                and best_score
-                >= current_score + self.SWITCH_SCORE_GAP
+                and best_score >= current_score + self.SWITCH_SCORE_GAP
+                and not self.is_switch_cooldown()
             ):
                 new_symbol = best_coin["symbol"]
                 new_price = None
