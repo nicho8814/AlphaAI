@@ -298,19 +298,27 @@ class AlphaAI:
                     "->",
                     new_symbol
                 )
-                # ---------------------------------------------
                 # BUY NUOVA POSIZIONE
-                # ---------------------------------------------
-                new_decision = (
-                    self.decision_engine.decide(
-                        [best_coin],
-                        self.simulator.balance
-                    )
+                # La moneta è già stata scelta come migliore:
+                # non chiediamo una seconda decisione al DecisionEngine.
+
+                risk = self.decision_engine.risk_manager.calculate_position_size(
+                    self.simulator.balance,
+                    best_score,
+                    best_coin.get("volatility", "MEDIUM")
                 )
-                amount = new_decision.get(
-                    "amount",
-                    0
-                )
+
+                amount = risk["amount"]
+
+                print("===== SWITCH BUY DEBUG =====")
+                print("NEW SYMBOL:", new_symbol)
+                print("NEW PRICE:", new_price)
+                print("NEW SCORE:", best_score)
+                print("BALANCE AFTER SELL:", self.simulator.balance)
+                print("BUY AMOUNT:", amount)
+
+                buy_result = None
+
                 if amount > 0:
                     buy_result = self.simulator.buy(
                         new_symbol,

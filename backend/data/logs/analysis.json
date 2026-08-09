@@ -297986,5 +297986,2604 @@
         ],
         "balance": 999.76,
         "time": "2026-08-08 21:33:45.542529"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 57.28,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 48.54,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 64.6,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.41,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 69.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 67.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.66,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.36,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.02,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:33:58.630564"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 57.28,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 47.98,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 64.6,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.41,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 69.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 67.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.66,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.37,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 70.62,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:34:11.693750"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 57.93,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 48.54,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 65.49,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 69.86,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 67.17,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.91,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.45,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.43,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:34:24.719936"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 67.51,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 59.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.78,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 48.54,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 65.81,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.91,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.56,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.02,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:34:38.221417"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 67.51,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 59.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.78,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 48.54,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 65.81,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.82,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.91,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.53,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.02,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:34:51.280532"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 67.51,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 59.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 48.54,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 65.81,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.91,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.25,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.43,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:35:05.773060"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 67.51,
+                "trend": "UP",
+                "volume": "LOW",
+                "score": 70
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 59.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 48.54,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 65.81,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.41,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.91,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.11,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.14,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.43,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:35:19.268966"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 59.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 48.54,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 66.48,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.27,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 67.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.82,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.14,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.43,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:35:33.185721"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 59.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 48.54,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 66.5,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.27,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 67.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.91,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.34,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.43,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:35:46.230010"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 59.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 48.82,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 66.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.12,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 67.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.82,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.45,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.43,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:35:59.533451"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 59.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 49.11,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 66.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 68.98,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 67.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.82,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.47,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.84,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:36:12.804115"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 59.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 49.11,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 66.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.12,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 66.83,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.91,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.47,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.43,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:36:25.902051"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 59.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 50.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 66.37,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.12,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 66.83,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.91,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.47,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.84,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:36:38.907224"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 59.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 50.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 66.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 68.98,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 66.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.82,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.45,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.84,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:36:51.999257"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 59.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 50.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 66.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.12,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 66.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.91,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.47,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.84,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:37:05.080099"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 59.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 50.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 66.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 68.98,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 66.5,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.82,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.11,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.84,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:37:18.062477"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 59.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 50.57,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 66.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.12,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 66.5,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.82,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.17,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.43,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:37:31.633370"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 59.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 50.57,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 66.37,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.27,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 66.5,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.82,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.17,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.43,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:37:44.653804"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 59.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.19,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 50.57,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 66.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.41,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 66.5,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.82,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.28,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.84,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "BTCUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:37:57.777625"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.78,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 51.41,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 61.01,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 67.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 66.83,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.82,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.33,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 72.25,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "AVAXUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:38:10.852487"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 48.78,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 51.14,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 61.01,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 67.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.82,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.0,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 66.67,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.91,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.33,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.84,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "AVAXUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:38:23.912565"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 51.14,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 61.01,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 67.22,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.82,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 66.83,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.82,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.31,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.14,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 72.25,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "AVAXUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:38:38.303406"
+    },
+    {
+        "analysis": [
+            {
+                "symbol": "ADAUSDT",
+                "rsi": 49.38,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "AVAXUSDT",
+                "rsi": 51.14,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 55
+            },
+            {
+                "symbol": "BTCUSDT",
+                "rsi": 61.01,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "ETHUSDT",
+                "rsi": 67.2,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "XRPUSDT",
+                "rsi": 69.68,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SUIUSDT",
+                "rsi": 66.83,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 45
+            },
+            {
+                "symbol": "SOLUSDT",
+                "rsi": 78.91,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "BNBUSDT",
+                "rsi": 76.16,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "LINKUSDT",
+                "rsi": 70.14,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            },
+            {
+                "symbol": "DOGEUSDT",
+                "rsi": 71.43,
+                "trend": "SIDEWAYS",
+                "volume": "LOW",
+                "score": 30
+            }
+        ],
+        "decision": {
+            "action": "HOLD",
+            "symbol": "AVAXUSDT",
+            "score": 55,
+            "reason": "Score troppo basso"
+        },
+        "history": [
+            {
+                "action": "SELL",
+                "symbol": "ADAUSDT",
+                "entry_price": 0.2009,
+                "exit_price": 0.2005,
+                "amount": 746.7396714783475,
+                "capital": 150.02,
+                "profit": -0.3,
+                "reason": "SWITCH_TO_BETTER"
+            },
+            {
+                "action": "BUY",
+                "symbol": "SUIUSDT",
+                "price": 0.6986,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": 0,
+                "reason": "ENTRY"
+            },
+            {
+                "action": "SELL",
+                "symbol": "SUIUSDT",
+                "entry_price": 0.6986,
+                "exit_price": 0.6978,
+                "amount": 71.55740051531635,
+                "capital": 49.99,
+                "profit": -0.06,
+                "reason": "SWITCH_TO_BETTER"
+            }
+        ],
+        "balance": 999.76,
+        "time": "2026-08-08 21:38:51.787999"
     }
 ]
