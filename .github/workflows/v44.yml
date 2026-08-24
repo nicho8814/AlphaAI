@@ -1,0 +1,32 @@
+name: AlphaAI V44
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Scarica AlphaAI
+        uses: actions/checkout@v4
+
+      - name: Configura Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Controlla repository
+        run: |
+          echo "=== FILE DEL REPOSITORY ==="
+          find . -maxdepth 3 -type f | sort
+
+      - name: Controlla V43
+        run: |
+          if [ -f permutation_fast_v43.py ]; then
+            echo "V43 TROVATA"
+          else
+            echo "ATTENZIONE: permutation_fast_v43.py NON è nel repository"
+            echo "Dobbiamo prima caricare il file."
+          fi
+          
